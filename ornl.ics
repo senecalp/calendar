@@ -1,123 +1,138 @@
 BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ORNL Calendar Export//example.com//
 BEGIN:VEVENT
 SUMMARY:One on One
 DTSTART;TZID=America/New_York:20250303T100000
 DTEND;TZID=America/New_York:20250303T103000
 DESCRIPTION:
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Canceled: One on One
-DTSTART;TZID=America/New_York:20250317T133000
-DTEND;TZID=America/New_York:20250317T140000
-DESCRIPTION:Forgot this guy. Sorry. 
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:One on One
 DTSTART;TZID=America/New_York:20250331T133000
 DTEND;TZID=America/New_York:20250331T140000
 DESCRIPTION:
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:One on One
 DTSTART;TZID=America/New_York:20250512T133000
 DTEND;TZID=America/New_York:20250512T140000
 DESCRIPTION:
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:One on One
 DTSTART;TZID=America/New_York:20250526T133000
 DTEND;TZID=America/New_York:20250526T140000
 DESCRIPTION:
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:One on One
 DTSTART;TZID=America/New_York:20250609T133000
 DTEND;TZID=America/New_York:20250609T140000
 DESCRIPTION:
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:One on One
 DTSTART;TZID=America/New_York:20250623T133000
 DTEND;TZID=America/New_York:20250623T140000
 DESCRIPTION:
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:One on One
 DTSTART;TZID=America/New_York:20250707T133000
 DTEND;TZID=America/New_York:20250707T140000
 DESCRIPTION:
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:One on One
 DTSTART;TZID=America/New_York:20250721T133000
 DTEND;TZID=America/New_York:20250721T140000
 DESCRIPTION:
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:One on One
 DTSTART;TZID=America/New_York:20250804T133000
 DTEND;TZID=America/New_York:20250804T140000
 DESCRIPTION:
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:One on One
 DTSTART;TZID=America/New_York:20250818T133000
 DTEND;TZID=America/New_York:20250818T140000
 DESCRIPTION:
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:One on One
 DTSTART;TZID=America/New_York:20250901T133000
 DTEND;TZID=America/New_York:20250901T140000
 DESCRIPTION:
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:One on One
 DTSTART;TZID=America/New_York:20250915T133000
 DTEND;TZID=America/New_York:20250915T140000
 DESCRIPTION:
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:One on One
 DTSTART;TZID=America/New_York:20250929T133000
 DTEND;TZID=America/New_York:20250929T140000
 DESCRIPTION:
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:One on One
 DTSTART;TZID=America/New_York:20251013T133000
 DTEND;TZID=America/New_York:20251013T140000
 DESCRIPTION:
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:One on One
 DTSTART;TZID=America/New_York:20251027T133000
 DTEND;TZID=America/New_York:20251027T140000
 DESCRIPTION:
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:One on One
 DTSTART;TZID=America/New_York:20251110T133000
 DTEND;TZID=America/New_York:20251110T140000
 DESCRIPTION:
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:One on One
 DTSTART;TZID=America/New_York:20251124T133000
 DTEND;TZID=America/New_York:20251124T140000
 DESCRIPTION:
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:One on One
 DTSTART;TZID=America/New_York:20251208T133000
 DTEND;TZID=America/New_York:20251208T140000
 DESCRIPTION:
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:One on One
 DTSTART;TZID=America/New_York:20251222T133000
 DTEND;TZID=America/New_York:20251222T140000
 DESCRIPTION:
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Daily Scrum
@@ -125,6 +140,7 @@ DTSTART;TZID=America/New_York:20250303T090000
 DTEND;TZID=America/New_York:20250303T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day. 
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Daily Scrum
@@ -132,6 +148,7 @@ DTSTART;TZID=America/New_York:20250304T090000
 DTEND;TZID=America/New_York:20250304T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day. 
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Daily Scrum
@@ -139,6 +156,7 @@ DTSTART;TZID=America/New_York:20250305T090000
 DTEND;TZID=America/New_York:20250305T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day. 
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Daily Scrum
@@ -146,6 +164,7 @@ DTSTART;TZID=America/New_York:20250306T090000
 DTEND;TZID=America/New_York:20250306T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day. 
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Daily Scrum
@@ -153,6 +172,7 @@ DTSTART;TZID=America/New_York:20250307T090000
 DTEND;TZID=America/New_York:20250307T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day. 
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Daily Scrum
@@ -160,120 +180,140 @@ DTSTART;TZID=America/New_York:20250310T090000
 DTEND;TZID=America/New_York:20250310T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day. 
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Web Services All-Hands Meeting
 DTSTART;TZID=America/New_York:20250305T103000
 DTEND;TZID=America/New_York:20250305T113000
 DESCRIPTION:*	Group-wide updates
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Web Services All-Hands Meeting
 DTSTART;TZID=America/New_York:20250402T103000
 DTEND;TZID=America/New_York:20250402T113000
 DESCRIPTION:*	Group-wide updates
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Web Services All-Hands Meeting
 DTSTART;TZID=America/New_York:20250507T103000
 DTEND;TZID=America/New_York:20250507T113000
 DESCRIPTION:*	Group-wide updates
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Web Services All-Hands Meeting
 DTSTART;TZID=America/New_York:20250604T103000
 DTEND;TZID=America/New_York:20250604T113000
 DESCRIPTION:*	Group-wide updates
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Web Services All-Hands Meeting
 DTSTART;TZID=America/New_York:20250702T103000
 DTEND;TZID=America/New_York:20250702T113000
 DESCRIPTION:*	Group-wide updates
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Web Services All-Hands Meeting
 DTSTART;TZID=America/New_York:20250806T103000
 DTEND;TZID=America/New_York:20250806T113000
 DESCRIPTION:*	Group-wide updates
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Web Services All-Hands Meeting
 DTSTART;TZID=America/New_York:20250903T103000
 DTEND;TZID=America/New_York:20250903T113000
 DESCRIPTION:*	Group-wide updates
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Web Services All-Hands Meeting
 DTSTART;TZID=America/New_York:20251001T103000
 DTEND;TZID=America/New_York:20251001T113000
 DESCRIPTION:*	Group-wide updates
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Web Services All-Hands Meeting
 DTSTART;TZID=America/New_York:20251105T103000
 DTEND;TZID=America/New_York:20251105T113000
 DESCRIPTION:*	Group-wide updates
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Web Services All-Hands Meeting
 DTSTART;TZID=America/New_York:20251203T103000
 DTEND;TZID=America/New_York:20251203T113000
 DESCRIPTION:*	Group-wide updates
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Agile League planning
 DTSTART;TZID=America/New_York:20250310T140000
 DTEND;TZID=America/New_York:20250310T143000
 DESCRIPTION:
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Agile League planning
 DTSTART;TZID=America/New_York:20250512T140000
 DTEND;TZID=America/New_York:20250512T143000
 DESCRIPTION:
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Agile League planning
 DTSTART;TZID=America/New_York:20250609T140000
 DTEND;TZID=America/New_York:20250609T143000
 DESCRIPTION:
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Agile League planning
 DTSTART;TZID=America/New_York:20250714T140000
 DTEND;TZID=America/New_York:20250714T143000
 DESCRIPTION:
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Agile League planning
 DTSTART;TZID=America/New_York:20250811T140000
 DTEND;TZID=America/New_York:20250811T143000
 DESCRIPTION:
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Agile League planning
 DTSTART;TZID=America/New_York:20250908T140000
 DTEND;TZID=America/New_York:20250908T143000
 DESCRIPTION:
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Agile League planning
 DTSTART;TZID=America/New_York:20251013T140000
 DTEND;TZID=America/New_York:20251013T143000
 DESCRIPTION:
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Agile League planning
 DTSTART;TZID=America/New_York:20251110T140000
 DTEND;TZID=America/New_York:20251110T143000
 DESCRIPTION:
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Agile League planning
 DTSTART;TZID=America/New_York:20251208T140000
 DTEND;TZID=America/New_York:20251208T143000
 DESCRIPTION:
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DOE Agile COI
@@ -283,6 +323,7 @@ DESCRIPTION:______________________________________________________________
  __________________ Microsoft Teams Need help? Join the meeting now Meeting
   ID: 233 032 384 04 Passcode: bNiowd Dial in by phone +1 575-323-9652\,\,4
  44779642# United States\, Las Cruces
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DOE Agile COI
@@ -292,6 +333,7 @@ DESCRIPTION:______________________________________________________________
  __________________ Microsoft Teams Need help? Join the meeting now Meeting
   ID: 233 032 384 04 Passcode: bNiowd Dial in by phone +1 575-323-9652\,\,4
  44779642# United States\, Las Cruces
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DOE Agile COI
@@ -301,6 +343,7 @@ DESCRIPTION:______________________________________________________________
  __________________ Microsoft Teams Need help? Join the meeting now Meeting
   ID: 233 032 384 04 Passcode: bNiowd Dial in by phone +1 575-323-9652\,\,4
  44779642# United States\, Las Cruces
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DOE Agile COI
@@ -310,6 +353,7 @@ DESCRIPTION:______________________________________________________________
  __________________ Microsoft Teams Need help? Join the meeting now Meeting
   ID: 233 032 384 04 Passcode: bNiowd Dial in by phone +1 575-323-9652\,\,4
  44779642# United States\, Las Cruces
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DOE Agile COI
@@ -319,6 +363,7 @@ DESCRIPTION:______________________________________________________________
  __________________ Microsoft Teams Need help? Join the meeting now Meeting
   ID: 233 032 384 04 Passcode: bNiowd Dial in by phone +1 575-323-9652\,\,4
  44779642# United States\, Las Cruces
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DOE Agile COI
@@ -328,6 +373,7 @@ DESCRIPTION:______________________________________________________________
  __________________ Microsoft Teams Need help? Join the meeting now Meeting
   ID: 233 032 384 04 Passcode: bNiowd Dial in by phone +1 575-323-9652\,\,4
  44779642# United States\, Las Cruces
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DOE Agile COI
@@ -337,6 +383,7 @@ DESCRIPTION:______________________________________________________________
  __________________ Microsoft Teams Need help? Join the meeting now Meeting
   ID: 233 032 384 04 Passcode: bNiowd Dial in by phone +1 575-323-9652\,\,4
  44779642# United States\, Las Cruces
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DOE Agile COI
@@ -346,6 +393,7 @@ DESCRIPTION:______________________________________________________________
  __________________ Microsoft Teams Need help? Join the meeting now Meeting
   ID: 233 032 384 04 Passcode: bNiowd Dial in by phone +1 575-323-9652\,\,4
  44779642# United States\, Las Cruces
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DOE Agile COI
@@ -355,6 +403,7 @@ DESCRIPTION:______________________________________________________________
  __________________ Microsoft Teams Need help? Join the meeting now Meeting
   ID: 233 032 384 04 Passcode: bNiowd Dial in by phone +1 575-323-9652\,\,4
  44779642# United States\, Las Cruces
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DOE Agile COI
@@ -364,60 +413,70 @@ DESCRIPTION:______________________________________________________________
  __________________ Microsoft Teams Need help? Join the meeting now Meeting
   ID: 233 032 384 04 Passcode: bNiowd Dial in by phone +1 575-323-9652\,\,4
  44779642# United States\, Las Cruces
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lessons Learned 
 DTSTART;TZID=America/New_York:20250416T140000
 DTEND;TZID=America/New_York:20250416T143000
 DESCRIPTION: 
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lessons Learned 
 DTSTART;TZID=America/New_York:20250521T140000
 DTEND;TZID=America/New_York:20250521T143000
 DESCRIPTION: 
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lessons Learned 
 DTSTART;TZID=America/New_York:20250618T140000
 DTEND;TZID=America/New_York:20250618T143000
 DESCRIPTION: 
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lessons Learned 
 DTSTART;TZID=America/New_York:20250716T140000
 DTEND;TZID=America/New_York:20250716T143000
 DESCRIPTION: 
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lessons Learned 
 DTSTART;TZID=America/New_York:20250820T140000
 DTEND;TZID=America/New_York:20250820T143000
 DESCRIPTION: 
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lessons Learned 
 DTSTART;TZID=America/New_York:20250917T140000
 DTEND;TZID=America/New_York:20250917T143000
 DESCRIPTION: 
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lessons Learned 
 DTSTART;TZID=America/New_York:20251015T140000
 DTEND;TZID=America/New_York:20251015T143000
 DESCRIPTION: 
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lessons Learned 
 DTSTART;TZID=America/New_York:20251119T140000
 DTEND;TZID=America/New_York:20251119T143000
 DESCRIPTION: 
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lessons Learned 
 DTSTART;TZID=America/New_York:20251217T140000
 DTEND;TZID=America/New_York:20251217T143000
 DESCRIPTION: 
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Agile Community of Practice
@@ -427,6 +486,7 @@ DESCRIPTION:Monthly meeting to discuss Agile practices and collaborate to
  help each other be more successful. Be you a Scrum Master\, Product Owner\
  , member of the Dev Team or just looking to learn and share new ways to im
  prove how you and your team get things done. 
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Agile Community of Practice
@@ -436,6 +496,7 @@ DESCRIPTION:Monthly meeting to discuss Agile practices and collaborate to
  help each other be more successful. Be you a Scrum Master\, Product Owner\
  , member of the Dev Team or just looking to learn and share new ways to im
  prove how you and your team get things done. 
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Agile Community of Practice
@@ -445,6 +506,7 @@ DESCRIPTION:Monthly meeting to discuss Agile practices and collaborate to
  help each other be more successful. Be you a Scrum Master\, Product Owner\
  , member of the Dev Team or just looking to learn and share new ways to im
  prove how you and your team get things done. 
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Agile Community of Practice
@@ -454,6 +516,7 @@ DESCRIPTION:Monthly meeting to discuss Agile practices and collaborate to
  help each other be more successful. Be you a Scrum Master\, Product Owner\
  , member of the Dev Team or just looking to learn and share new ways to im
  prove how you and your team get things done. 
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Agile Community of Practice
@@ -463,6 +526,7 @@ DESCRIPTION:Monthly meeting to discuss Agile practices and collaborate to
  help each other be more successful. Be you a Scrum Master\, Product Owner\
  , member of the Dev Team or just looking to learn and share new ways to im
  prove how you and your team get things done. 
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Agile Community of Practice
@@ -472,6 +536,7 @@ DESCRIPTION:Monthly meeting to discuss Agile practices and collaborate to
  help each other be more successful. Be you a Scrum Master\, Product Owner\
  , member of the Dev Team or just looking to learn and share new ways to im
  prove how you and your team get things done. 
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Agile Community of Practice
@@ -481,6 +546,7 @@ DESCRIPTION:Monthly meeting to discuss Agile practices and collaborate to
  help each other be more successful. Be you a Scrum Master\, Product Owner\
  , member of the Dev Team or just looking to learn and share new ways to im
  prove how you and your team get things done. 
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Agile Community of Practice
@@ -490,6 +556,7 @@ DESCRIPTION:Monthly meeting to discuss Agile practices and collaborate to
  help each other be more successful. Be you a Scrum Master\, Product Owner\
  , member of the Dev Team or just looking to learn and share new ways to im
  prove how you and your team get things done. 
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Agile Community of Practice
@@ -499,6 +566,7 @@ DESCRIPTION:Monthly meeting to discuss Agile practices and collaborate to
  help each other be more successful. Be you a Scrum Master\, Product Owner\
  , member of the Dev Team or just looking to learn and share new ways to im
  prove how you and your team get things done. 
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Agile Community of Practice
@@ -508,6 +576,7 @@ DESCRIPTION:Monthly meeting to discuss Agile practices and collaborate to
  help each other be more successful. Be you a Scrum Master\, Product Owner\
  , member of the Dev Team or just looking to learn and share new ways to im
  prove how you and your team get things done. 
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Quality Assurance COP
@@ -515,6 +584,7 @@ DTSTART;TZID=America/New_York:20220203T140000
 DTEND;TZID=America/New_York:20220203T150000
 DESCRIPTION:Please join our Monthly QA COP  We often utilize Lucid Spark &
   Lucid Chart 
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Quality Assurance COP
@@ -522,6 +592,7 @@ DTSTART;TZID=America/New_York:20220303T140000
 DTEND;TZID=America/New_York:20220303T150000
 DESCRIPTION:Please join our Monthly QA COP  We often utilize Lucid Spark &
   Lucid Chart 
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Quality Assurance COP
@@ -529,6 +600,7 @@ DTSTART;TZID=America/New_York:20250703T140000
 DTEND;TZID=America/New_York:20250703T150000
 DESCRIPTION:Please join our Monthly QA COP  We often utilize Lucid Spark &
   Lucid Chart 
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Quality Assurance COP
@@ -536,6 +608,7 @@ DTSTART;TZID=America/New_York:20250807T140000
 DTEND;TZID=America/New_York:20250807T150000
 DESCRIPTION:Please join our Monthly QA COP  We often utilize Lucid Spark &
   Lucid Chart 
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Quality Assurance COP
@@ -543,6 +616,7 @@ DTSTART;TZID=America/New_York:20250904T140000
 DTEND;TZID=America/New_York:20250904T150000
 DESCRIPTION:Please join our Monthly QA COP  We often utilize Lucid Spark &
   Lucid Chart 
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Quality Assurance COP
@@ -550,6 +624,7 @@ DTSTART;TZID=America/New_York:20251002T140000
 DTEND;TZID=America/New_York:20251002T150000
 DESCRIPTION:Please join our Monthly QA COP  We often utilize Lucid Spark &
   Lucid Chart 
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Quality Assurance COP
@@ -557,6 +632,7 @@ DTSTART;TZID=America/New_York:20251106T140000
 DTEND;TZID=America/New_York:20251106T150000
 DESCRIPTION:Please join our Monthly QA COP  We often utilize Lucid Spark &
   Lucid Chart 
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Quality Assurance COP
@@ -564,6 +640,7 @@ DTSTART;TZID=America/New_York:20251204T140000
 DTEND;TZID=America/New_York:20251204T150000
 DESCRIPTION:Please join our Monthly QA COP  We often utilize Lucid Spark &
   Lucid Chart 
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MDF Partner Map Reconvene
@@ -571,12 +648,14 @@ DTSTART;TZID=America/New_York:20250529T140000
 DTEND;TZID=America/New_York:20250529T150000
 DESCRIPTION:Reconvene to discuss status update on MDF partner map project.
   
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lunch-n-Learn- Privacy Program- Dan DeVore
 DTSTART;TZID=America/New_York:20250512T130000
 DTEND;TZID=America/New_York:20250512T133000
 DESCRIPTION: 
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Refinement - WordPress
@@ -584,6 +663,7 @@ DTSTART;TZID=America/New_York:20250430T100000
 DTEND;TZID=America/New_York:20250430T103000
 DESCRIPTION:Stories for refinement\; more will be added before Wednesday. 
  
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Refinement - Drupal
@@ -591,60 +671,71 @@ DTSTART;TZID=America/New_York:20250502T143000
 DTEND;TZID=America/New_York:20250502T153000
 DESCRIPTION:A few more stories are currently being written for refinement:
   
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OoO
 DTSTART;TZID=America/New_York:20250512T090000
 DTEND;TZID=America/New_York:20250512T100000
 DESCRIPTION:nan
+LOCATION:nan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NLIT
-DTSTART;TZID=America/New_York:20250504T000000
-DTEND;TZID=America/New_York:20250510T000000
+DTSTART;VALUE=DATE:20250504
+DTEND;VALUE=DATE:20250511
 DESCRIPTION:nan
+LOCATION:nan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:News Desk Taxonomy Follow Up
 DTSTART;TZID=America/New_York:20250513T140000
 DTEND;TZID=America/New_York:20250513T150000
 DESCRIPTION:nan
+LOCATION:RES: CR 4500N RM 142 (Little River) - C (Rm. Mstr. Brittany Beitz
+  - 241-2356\, Oak Ridge\, TN\, US)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MDF Interactive Map Project
 DTSTART;TZID=America/New_York:20250429T140000
 DTEND;TZID=America/New_York:20250429T144500
 DESCRIPTION:
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ornl.gov accent color implementation
 DTSTART;TZID=America/New_York:20250429T130000
 DTEND;TZID=America/New_York:20250429T140000
 DESCRIPTION:Hey folks\,
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Agile CoP Luncheon
 DTSTART;TZID=America/New_York:20250425T123000
 DTEND;TZID=America/New_York:20250425T133000
 DESCRIPTION: 
+LOCATION:Tia Tacos
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vacation
-DTSTART;TZID=America/New_York:20250517T000000
-DTEND;TZID=America/New_York:20250605T000000
+DTSTART;VALUE=DATE:20250517
+DTEND;VALUE=DATE:20250606
 DESCRIPTION:nan
+LOCATION:nan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Story features 
 DTSTART;TZID=America/New_York:20250417T133000
 DTEND;TZID=America/New_York:20250417T140000
 DESCRIPTION:Update features on backlog stories.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:News Desk taxonomy
 DTSTART;TZID=America/New_York:20250422T150000
 DTEND;TZID=America/New_York:20250422T160000
 DESCRIPTION:
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Publications and Fact Sheets
@@ -652,30 +743,35 @@ DTSTART;TZID=America/New_York:20250421T100000
 DTEND;TZID=America/New_York:20250421T110000
 DESCRIPTION:Would like to get some space to talk through these two things 
  to make sure all are on the same page. 
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Align on Communication
 DTSTART;TZID=America/New_York:20250416T150000
 DTEND;TZID=America/New_York:20250416T153000
 DESCRIPTION:Discuss Communications on the project
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Innovation Crossroads Quote
 DTSTART;TZID=America/New_York:20250416T103000
 DTEND;TZID=America/New_York:20250416T110000
 DESCRIPTION:
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Refinement - WordPress
 DTSTART;TZID=America/New_York:20250421T093000
 DTEND;TZID=America/New_York:20250421T100000
 DESCRIPTION:Refine Stories for upcoming Sprint. 
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Debriefing
 DTSTART;TZID=America/New_York:20250610T103000
 DTEND;TZID=America/New_York:20250610T123000
 DESCRIPTION:Alex\, 
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Transition to Composer Based
@@ -685,6 +781,7 @@ DESCRIPTION:Hey gang\, I know this is a big block of time at the beginning
   of a sprint\, but I want to explore some things we may need to better und
  erstand and assumptions to test in planning for this transition. Below is 
  a rough agenda of my thoughts. Feel free to suggest other things. 
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Planning - Looking forward
@@ -693,6 +790,7 @@ DTEND;TZID=America/New_York:20250512T120000
 DESCRIPTION:Hey team\, wanted to set some time to talk strategy as I am go
  ing missing for a while. Also\, wanted to key Alex into this discussion so
   he can be better positioned to support in mine and Seneca’s absence. 
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WordPress Roadmap V2
@@ -701,30 +799,36 @@ DTEND;TZID=America/New_York:20250424T160000
 DESCRIPTION:This was the only available time. Know it is later in the day.
   If this doesn’t work I will have to let someone else take the ball on s
  cheduling. 
+LOCATION:RES: CR 5100 RM 130 - C (Conf RM Near Lecture Hall) (Contact: Ang
+ ie Chance\, 241-0643  chancear@ornl.gov\, Oak Ridge\, TN\, US)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Refinement - Drupal
 DTSTART;TZID=America/New_York:20250417T093000
 DTEND;TZID=America/New_York:20250417T100000
 DESCRIPTION:Stories to review for refinement so far: 
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fact Sheets Sync
 DTSTART;TZID=America/New_York:20250417T143000
 DTEND;TZID=America/New_York:20250417T153000
 DESCRIPTION:
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Biometric screening
 DTSTART;TZID=America/New_York:20250414T080000
 DTEND;TZID=America/New_York:20250414T100000
 DESCRIPTION:nan
+LOCATION:nan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lets hang out like humans
 DTSTART;TZID=America/New_York:20250512T163000
 DTEND;TZID=America/New_York:20250512T183000
 DESCRIPTION:Hey folks\,
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WordPress Product Roadmap
@@ -733,24 +837,29 @@ DTEND;TZID=America/New_York:20250414T123000
 DESCRIPTION:Finding time is hard. If this doesn’t work for some\, let me
   know and I will adjust. I will find a meeting room on campus for this tim
  e. 
+LOCATION:Microsoft Teams Meeting\; RES: CR 5100 RM 130 - C (Conf RM Near L
+ ecture Hall)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fact sheet update
 DTSTART;TZID=America/New_York:20250410T113000
 DTEND;TZID=America/New_York:20250410T121500
 DESCRIPTION:
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Out of Office
 DTSTART;TZID=America/New_York:20250407T110000
 DTEND;TZID=America/New_York:20250407T170000
 DESCRIPTION:nan
+LOCATION:nan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Refinement Refinement Refinement
 DTSTART;TZID=America/New_York:20250407T153000
 DTEND;TZID=America/New_York:20250407T160000
 DESCRIPTION:Discuss
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Publications Import
@@ -758,24 +867,28 @@ DTSTART;TZID=America/New_York:20250407T131500
 DTEND;TZID=America/New_York:20250407T141500
 DESCRIPTION:Work through Lucid mapping to see what story or stories we can
   get on the board for the upcoming sprint. 
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:*Optional* Design System - UI Kit Office Hours
 DTSTART;TZID=America/New_York:20250403T130000
 DTEND;TZID=America/New_York:20250403T140000
 DESCRIPTION:
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:IC story writing
 DTSTART;TZID=America/New_York:20250403T150000
 DTEND;TZID=America/New_York:20250403T160000
 DESCRIPTION:Innovation Crossroads
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Contact lawyer about will
 DTSTART;TZID=America/New_York:20250401T094500
 DTEND;TZID=America/New_York:20250401T100000
 DESCRIPTION:nan
+LOCATION:nan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Demo - DrupalCon and SDC
@@ -784,12 +897,14 @@ DTEND;TZID=America/New_York:20250409T150000
 DESCRIPTION:For this meeting I’ll demo Drupal’s new theming system. Da
  ve will discuss/show some of the new Drupal advancements he learned about 
  at DrupalCon.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Refinement
 DTSTART;TZID=America/New_York:20250404T093000
 DTEND;TZID=America/New_York:20250404T100000
 DESCRIPTION:Refine stories for the upcoming sprint.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Innovation Crossroads Review and Questions
@@ -798,12 +913,14 @@ DTEND;TZID=America/New_York:20250402T160000
 DESCRIPTION:Greetings. Calendars are very full this week. This specific ti
  me does not show Karen as being available. If I need to reschedule\, pleas
  e let me know. 
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fact Sheet and Staff Publications Import mapping
 DTSTART;TZID=America/New_York:20250407T100000
 DTEND;TZID=America/New_York:20250407T110000
 DESCRIPTION:Items on the agenda
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Refinement
@@ -811,6 +928,7 @@ DTSTART;TZID=America/New_York:20250402T143000
 DTEND;TZID=America/New_York:20250402T150000
 DESCRIPTION:Drupal Refinement for tasks that have been submitted over the 
  past week\, including: 
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Innovation Crossroads Practice
@@ -818,12 +936,14 @@ DTSTART;TZID=America/New_York:20250327T110000
 DTEND;TZID=America/New_York:20250327T120000
 DESCRIPTION:1.	Practice the review of IC to be prepared for the actual rev
  iew.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Planning to Plan Plan
 DTSTART;TZID=America/New_York:20250326T111500
 DTEND;TZID=America/New_York:20250326T120000
 DESCRIPTION:Initial stab at planning development and roadmapping. 
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:USWDS or not to USWDS? That is the assumption
@@ -831,6 +951,7 @@ DTSTART;TZID=America/New_York:20250401T140000
 DTEND;TZID=America/New_York:20250401T150000
 DESCRIPTION:Given what we have learned about USWDS we need to consider its
   validity as the development framework for our public-facing web things.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Welcome\, let me show you around...
@@ -839,6 +960,7 @@ DTEND;TZID=America/New_York:20250327T104500
 DESCRIPTION:Hello friends. We would like to have some conversation about w
  here we are\, what we are working on and what we need. Really just a show 
  and tell with a touch of transparency. 
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:No Seneca No Cry
@@ -846,6 +968,7 @@ DTSTART;TZID=America/New_York:20250325T163000
 DTEND;TZID=America/New_York:20250325T233000
 DESCRIPTION:If we need extra time\, I see we are free until about 9am the 
  next day. 😊
+LOCATION:Casual Pint off North Shore
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Team Meeting
@@ -855,84 +978,98 @@ DESCRIPTION:Hello gang. Hope everyone has had a good week. Last week\, Cin
  dy suggested we have a meeting to talk about roles and responsibilities. I
  n addition\, I would like to talk about some of the issues I asked about e
  arly last week. I have included that chain in this invite. 
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Design System: Monthly Office Hours
 DTSTART;TZID=America/New_York:20250319T140000
 DTEND;TZID=America/New_York:20250319T150000
 DESCRIPTION:
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Design System: Monthly Office Hours
 DTSTART;TZID=America/New_York:20250521T140000
 DTEND;TZID=America/New_York:20250521T150000
 DESCRIPTION:
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Design System: Monthly Office Hours
 DTSTART;TZID=America/New_York:20250618T140000
 DTEND;TZID=America/New_York:20250618T150000
 DESCRIPTION:
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Design System: Monthly Office Hours
 DTSTART;TZID=America/New_York:20250716T140000
 DTEND;TZID=America/New_York:20250716T150000
 DESCRIPTION:
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Design System: Monthly Office Hours
 DTSTART;TZID=America/New_York:20250820T140000
 DTEND;TZID=America/New_York:20250820T150000
 DESCRIPTION:
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Design System: Monthly Office Hours
 DTSTART;TZID=America/New_York:20250917T140000
 DTEND;TZID=America/New_York:20250917T150000
 DESCRIPTION:
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Design System: Monthly Office Hours
 DTSTART;TZID=America/New_York:20251015T140000
 DTEND;TZID=America/New_York:20251015T150000
 DESCRIPTION:
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Design System: Monthly Office Hours
 DTSTART;TZID=America/New_York:20251119T140000
 DTEND;TZID=America/New_York:20251119T150000
 DESCRIPTION:
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Design System: Monthly Office Hours
 DTSTART;TZID=America/New_York:20251217T140000
 DTEND;TZID=America/New_York:20251217T150000
 DESCRIPTION:
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Refinement
 DTSTART;TZID=America/New_York:20250321T093000
 DTEND;TZID=America/New_York:20250321T103000
 DESCRIPTION:
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Refinement
 DTSTART;TZID=America/New_York:20250320T100000
 DTEND;TZID=America/New_York:20250320T110000
 DESCRIPTION:
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fonts
 DTSTART;TZID=America/New_York:20250317T110000
 DTEND;TZID=America/New_York:20250317T113000
 DESCRIPTION:
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NS Cloner
 DTSTART;TZID=America/New_York:20250314T113000
 DTEND;TZID=America/New_York:20250314T120000
 DESCRIPTION:talk about wp sandbox 
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Neutrons....what if
@@ -941,12 +1078,14 @@ DTEND;TZID=America/New_York:20250326T160000
 DESCRIPTION:Hello gang. I would like to get together and chat about the id
  ea of Neutrons moving to WordPress rather than upgrading Drupal 7 to Drupa
  l 10. At this point\, just a discussion. Nothing to see here. 
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Refinement
 DTSTART;TZID=America/New_York:20250314T093000
 DTEND;TZID=America/New_York:20250314T100000
 DESCRIPTION:
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Crucial Conversations for Mastering Dialogue
@@ -954,6 +1093,7 @@ DTSTART;TZID=America/New_York:20250827T083000
 DTEND;TZID=America/New_York:20250827T163000
 DESCRIPTION:CRS 00045017 2/4/2025 08:51 AM US/Eastern  -  Crucial Conversa
  tions for Mastering Dialogue  -  Time Slot 2
+LOCATION:ORNL (Building 5100\, Room 125 )
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Crucial Conversations for Mastering Dialogue
@@ -961,12 +1101,14 @@ DTSTART;TZID=America/New_York:20250826T083000
 DTEND;TZID=America/New_York:20250826T163000
 DESCRIPTION:CRS 00045017 2/4/2025 08:51 AM US/Eastern  -  Crucial Conversa
  tions for Mastering Dialogue  -  Time Slot 1
+LOCATION:ORNL (Building 5100\, Room 125 )
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Application Development Division All Hands\, May 1\, 2025
 DTSTART;TZID=America/New_York:20250501T080000
 DTEND;TZID=America/New_York:20250501T160000
 DESCRIPTION:Good morning\, 
+LOCATION:5200 Tennessee Rooms A\, B\, C
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -974,6 +1116,7 @@ DTSTART;TZID=America/New_York:20250311T091500
 DTEND;TZID=America/New_York:20250311T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -981,6 +1124,7 @@ DTSTART;TZID=America/New_York:20250312T091500
 DTEND;TZID=America/New_York:20250312T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -988,6 +1132,7 @@ DTSTART;TZID=America/New_York:20250313T091500
 DTEND;TZID=America/New_York:20250313T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -995,6 +1140,7 @@ DTSTART;TZID=America/New_York:20250314T091500
 DTEND;TZID=America/New_York:20250314T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1002,6 +1148,7 @@ DTSTART;TZID=America/New_York:20250317T091500
 DTEND;TZID=America/New_York:20250317T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1009,6 +1156,7 @@ DTSTART;TZID=America/New_York:20250318T091500
 DTEND;TZID=America/New_York:20250318T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1016,6 +1164,7 @@ DTSTART;TZID=America/New_York:20250319T091500
 DTEND;TZID=America/New_York:20250319T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1023,6 +1172,7 @@ DTSTART;TZID=America/New_York:20250320T091500
 DTEND;TZID=America/New_York:20250320T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1030,6 +1180,7 @@ DTSTART;TZID=America/New_York:20250321T091500
 DTEND;TZID=America/New_York:20250321T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1037,6 +1188,7 @@ DTSTART;TZID=America/New_York:20250324T091500
 DTEND;TZID=America/New_York:20250324T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1044,6 +1196,7 @@ DTSTART;TZID=America/New_York:20250325T091500
 DTEND;TZID=America/New_York:20250325T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1051,6 +1204,7 @@ DTSTART;TZID=America/New_York:20250326T091500
 DTEND;TZID=America/New_York:20250326T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1058,6 +1212,7 @@ DTSTART;TZID=America/New_York:20250327T091500
 DTEND;TZID=America/New_York:20250327T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1065,6 +1220,7 @@ DTSTART;TZID=America/New_York:20250328T091500
 DTEND;TZID=America/New_York:20250328T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1072,6 +1228,7 @@ DTSTART;TZID=America/New_York:20250331T091500
 DTEND;TZID=America/New_York:20250331T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1079,6 +1236,7 @@ DTSTART;TZID=America/New_York:20250401T091500
 DTEND;TZID=America/New_York:20250401T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1086,6 +1244,7 @@ DTSTART;TZID=America/New_York:20250402T091500
 DTEND;TZID=America/New_York:20250402T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1093,6 +1252,7 @@ DTSTART;TZID=America/New_York:20250403T091500
 DTEND;TZID=America/New_York:20250403T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1100,6 +1260,7 @@ DTSTART;TZID=America/New_York:20250404T091500
 DTEND;TZID=America/New_York:20250404T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1107,6 +1268,7 @@ DTSTART;TZID=America/New_York:20250407T091500
 DTEND;TZID=America/New_York:20250407T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1114,6 +1276,7 @@ DTSTART;TZID=America/New_York:20250408T091500
 DTEND;TZID=America/New_York:20250408T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1121,6 +1284,7 @@ DTSTART;TZID=America/New_York:20250409T091500
 DTEND;TZID=America/New_York:20250409T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1128,6 +1292,7 @@ DTSTART;TZID=America/New_York:20250410T091500
 DTEND;TZID=America/New_York:20250410T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1135,6 +1300,7 @@ DTSTART;TZID=America/New_York:20250411T091500
 DTEND;TZID=America/New_York:20250411T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1142,6 +1308,7 @@ DTSTART;TZID=America/New_York:20250414T091500
 DTEND;TZID=America/New_York:20250414T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1149,6 +1316,7 @@ DTSTART;TZID=America/New_York:20250415T091500
 DTEND;TZID=America/New_York:20250415T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1156,6 +1324,7 @@ DTSTART;TZID=America/New_York:20250416T091500
 DTEND;TZID=America/New_York:20250416T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1163,6 +1332,7 @@ DTSTART;TZID=America/New_York:20250417T091500
 DTEND;TZID=America/New_York:20250417T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1170,6 +1340,7 @@ DTSTART;TZID=America/New_York:20250418T091500
 DTEND;TZID=America/New_York:20250418T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1177,6 +1348,7 @@ DTSTART;TZID=America/New_York:20250421T091500
 DTEND;TZID=America/New_York:20250421T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1184,6 +1356,7 @@ DTSTART;TZID=America/New_York:20250422T091500
 DTEND;TZID=America/New_York:20250422T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1191,6 +1364,7 @@ DTSTART;TZID=America/New_York:20250423T091500
 DTEND;TZID=America/New_York:20250423T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1198,6 +1372,7 @@ DTSTART;TZID=America/New_York:20250424T091500
 DTEND;TZID=America/New_York:20250424T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1205,6 +1380,7 @@ DTSTART;TZID=America/New_York:20250425T091500
 DTEND;TZID=America/New_York:20250425T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1212,6 +1388,7 @@ DTSTART;TZID=America/New_York:20250428T091500
 DTEND;TZID=America/New_York:20250428T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1219,6 +1396,7 @@ DTSTART;TZID=America/New_York:20250429T091500
 DTEND;TZID=America/New_York:20250429T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1226,6 +1404,7 @@ DTSTART;TZID=America/New_York:20250430T091500
 DTEND;TZID=America/New_York:20250430T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1233,6 +1412,7 @@ DTSTART;TZID=America/New_York:20250502T091500
 DTEND;TZID=America/New_York:20250502T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1240,6 +1420,7 @@ DTSTART;TZID=America/New_York:20250505T091500
 DTEND;TZID=America/New_York:20250505T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1247,6 +1428,7 @@ DTSTART;TZID=America/New_York:20250506T091500
 DTEND;TZID=America/New_York:20250506T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1254,6 +1436,7 @@ DTSTART;TZID=America/New_York:20250507T091500
 DTEND;TZID=America/New_York:20250507T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1261,6 +1444,7 @@ DTSTART;TZID=America/New_York:20250508T091500
 DTEND;TZID=America/New_York:20250508T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1268,6 +1452,7 @@ DTSTART;TZID=America/New_York:20250509T091500
 DTEND;TZID=America/New_York:20250509T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1275,6 +1460,7 @@ DTSTART;TZID=America/New_York:20250512T091500
 DTEND;TZID=America/New_York:20250512T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1282,6 +1468,7 @@ DTSTART;TZID=America/New_York:20250513T091500
 DTEND;TZID=America/New_York:20250513T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1289,6 +1476,7 @@ DTSTART;TZID=America/New_York:20250514T091500
 DTEND;TZID=America/New_York:20250514T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1296,6 +1484,7 @@ DTSTART;TZID=America/New_York:20250515T091500
 DTEND;TZID=America/New_York:20250515T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1303,6 +1492,7 @@ DTSTART;TZID=America/New_York:20250516T091500
 DTEND;TZID=America/New_York:20250516T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1310,6 +1500,7 @@ DTSTART;TZID=America/New_York:20250519T091500
 DTEND;TZID=America/New_York:20250519T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1317,6 +1508,7 @@ DTSTART;TZID=America/New_York:20250520T091500
 DTEND;TZID=America/New_York:20250520T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1324,6 +1516,7 @@ DTSTART;TZID=America/New_York:20250521T091500
 DTEND;TZID=America/New_York:20250521T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1331,6 +1524,7 @@ DTSTART;TZID=America/New_York:20250522T091500
 DTEND;TZID=America/New_York:20250522T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1338,6 +1532,7 @@ DTSTART;TZID=America/New_York:20250523T091500
 DTEND;TZID=America/New_York:20250523T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1345,6 +1540,7 @@ DTSTART;TZID=America/New_York:20250526T091500
 DTEND;TZID=America/New_York:20250526T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1352,6 +1548,7 @@ DTSTART;TZID=America/New_York:20250527T091500
 DTEND;TZID=America/New_York:20250527T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1359,6 +1556,7 @@ DTSTART;TZID=America/New_York:20250528T091500
 DTEND;TZID=America/New_York:20250528T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1366,6 +1564,7 @@ DTSTART;TZID=America/New_York:20250529T091500
 DTEND;TZID=America/New_York:20250529T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1373,6 +1572,7 @@ DTSTART;TZID=America/New_York:20250530T091500
 DTEND;TZID=America/New_York:20250530T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1380,6 +1580,7 @@ DTSTART;TZID=America/New_York:20250602T091500
 DTEND;TZID=America/New_York:20250602T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1387,6 +1588,7 @@ DTSTART;TZID=America/New_York:20250603T091500
 DTEND;TZID=America/New_York:20250603T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1394,6 +1596,7 @@ DTSTART;TZID=America/New_York:20250604T091500
 DTEND;TZID=America/New_York:20250604T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1401,6 +1604,7 @@ DTSTART;TZID=America/New_York:20250605T091500
 DTEND;TZID=America/New_York:20250605T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1408,6 +1612,7 @@ DTSTART;TZID=America/New_York:20250606T091500
 DTEND;TZID=America/New_York:20250606T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1415,6 +1620,7 @@ DTSTART;TZID=America/New_York:20250609T091500
 DTEND;TZID=America/New_York:20250609T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1422,6 +1628,7 @@ DTSTART;TZID=America/New_York:20250610T091500
 DTEND;TZID=America/New_York:20250610T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1429,6 +1636,7 @@ DTSTART;TZID=America/New_York:20250611T091500
 DTEND;TZID=America/New_York:20250611T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1436,6 +1644,7 @@ DTSTART;TZID=America/New_York:20250612T091500
 DTEND;TZID=America/New_York:20250612T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1443,6 +1652,7 @@ DTSTART;TZID=America/New_York:20250613T091500
 DTEND;TZID=America/New_York:20250613T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1450,6 +1660,7 @@ DTSTART;TZID=America/New_York:20250616T091500
 DTEND;TZID=America/New_York:20250616T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1457,6 +1668,7 @@ DTSTART;TZID=America/New_York:20250617T091500
 DTEND;TZID=America/New_York:20250617T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1464,6 +1676,7 @@ DTSTART;TZID=America/New_York:20250618T091500
 DTEND;TZID=America/New_York:20250618T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1471,6 +1684,7 @@ DTSTART;TZID=America/New_York:20250619T091500
 DTEND;TZID=America/New_York:20250619T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1478,6 +1692,7 @@ DTSTART;TZID=America/New_York:20250620T091500
 DTEND;TZID=America/New_York:20250620T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1485,6 +1700,7 @@ DTSTART;TZID=America/New_York:20250623T091500
 DTEND;TZID=America/New_York:20250623T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1492,6 +1708,7 @@ DTSTART;TZID=America/New_York:20250624T091500
 DTEND;TZID=America/New_York:20250624T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1499,6 +1716,7 @@ DTSTART;TZID=America/New_York:20250625T091500
 DTEND;TZID=America/New_York:20250625T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1506,6 +1724,7 @@ DTSTART;TZID=America/New_York:20250626T091500
 DTEND;TZID=America/New_York:20250626T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1513,6 +1732,7 @@ DTSTART;TZID=America/New_York:20250627T091500
 DTEND;TZID=America/New_York:20250627T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1520,6 +1740,7 @@ DTSTART;TZID=America/New_York:20250630T091500
 DTEND;TZID=America/New_York:20250630T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1527,6 +1748,7 @@ DTSTART;TZID=America/New_York:20250701T091500
 DTEND;TZID=America/New_York:20250701T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1534,6 +1756,7 @@ DTSTART;TZID=America/New_York:20250702T091500
 DTEND;TZID=America/New_York:20250702T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1541,6 +1764,7 @@ DTSTART;TZID=America/New_York:20250703T091500
 DTEND;TZID=America/New_York:20250703T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1548,6 +1772,7 @@ DTSTART;TZID=America/New_York:20250704T091500
 DTEND;TZID=America/New_York:20250704T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1555,6 +1780,7 @@ DTSTART;TZID=America/New_York:20250707T091500
 DTEND;TZID=America/New_York:20250707T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1562,6 +1788,7 @@ DTSTART;TZID=America/New_York:20250708T091500
 DTEND;TZID=America/New_York:20250708T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1569,6 +1796,7 @@ DTSTART;TZID=America/New_York:20250709T091500
 DTEND;TZID=America/New_York:20250709T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1576,6 +1804,7 @@ DTSTART;TZID=America/New_York:20250710T091500
 DTEND;TZID=America/New_York:20250710T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1583,6 +1812,7 @@ DTSTART;TZID=America/New_York:20250711T091500
 DTEND;TZID=America/New_York:20250711T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1590,6 +1820,7 @@ DTSTART;TZID=America/New_York:20250714T091500
 DTEND;TZID=America/New_York:20250714T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1597,6 +1828,7 @@ DTSTART;TZID=America/New_York:20250715T091500
 DTEND;TZID=America/New_York:20250715T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1604,6 +1836,7 @@ DTSTART;TZID=America/New_York:20250716T091500
 DTEND;TZID=America/New_York:20250716T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1611,6 +1844,7 @@ DTSTART;TZID=America/New_York:20250717T091500
 DTEND;TZID=America/New_York:20250717T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1618,6 +1852,7 @@ DTSTART;TZID=America/New_York:20250718T091500
 DTEND;TZID=America/New_York:20250718T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1625,6 +1860,7 @@ DTSTART;TZID=America/New_York:20250721T091500
 DTEND;TZID=America/New_York:20250721T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1632,6 +1868,7 @@ DTSTART;TZID=America/New_York:20250722T091500
 DTEND;TZID=America/New_York:20250722T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1639,6 +1876,7 @@ DTSTART;TZID=America/New_York:20250723T091500
 DTEND;TZID=America/New_York:20250723T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1646,6 +1884,7 @@ DTSTART;TZID=America/New_York:20250724T091500
 DTEND;TZID=America/New_York:20250724T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1653,6 +1892,7 @@ DTSTART;TZID=America/New_York:20250725T091500
 DTEND;TZID=America/New_York:20250725T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1660,6 +1900,7 @@ DTSTART;TZID=America/New_York:20250728T091500
 DTEND;TZID=America/New_York:20250728T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1667,6 +1908,7 @@ DTSTART;TZID=America/New_York:20250729T091500
 DTEND;TZID=America/New_York:20250729T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1674,6 +1916,7 @@ DTSTART;TZID=America/New_York:20250730T091500
 DTEND;TZID=America/New_York:20250730T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1681,6 +1924,7 @@ DTSTART;TZID=America/New_York:20250731T091500
 DTEND;TZID=America/New_York:20250731T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1688,6 +1932,7 @@ DTSTART;TZID=America/New_York:20250801T091500
 DTEND;TZID=America/New_York:20250801T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1695,6 +1940,7 @@ DTSTART;TZID=America/New_York:20250804T091500
 DTEND;TZID=America/New_York:20250804T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1702,6 +1948,7 @@ DTSTART;TZID=America/New_York:20250805T091500
 DTEND;TZID=America/New_York:20250805T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1709,6 +1956,7 @@ DTSTART;TZID=America/New_York:20250806T091500
 DTEND;TZID=America/New_York:20250806T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1716,6 +1964,7 @@ DTSTART;TZID=America/New_York:20250807T091500
 DTEND;TZID=America/New_York:20250807T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1723,6 +1972,7 @@ DTSTART;TZID=America/New_York:20250808T091500
 DTEND;TZID=America/New_York:20250808T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1730,6 +1980,7 @@ DTSTART;TZID=America/New_York:20250811T091500
 DTEND;TZID=America/New_York:20250811T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1737,6 +1988,7 @@ DTSTART;TZID=America/New_York:20250812T091500
 DTEND;TZID=America/New_York:20250812T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1744,6 +1996,7 @@ DTSTART;TZID=America/New_York:20250813T091500
 DTEND;TZID=America/New_York:20250813T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1751,6 +2004,7 @@ DTSTART;TZID=America/New_York:20250814T091500
 DTEND;TZID=America/New_York:20250814T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1758,6 +2012,7 @@ DTSTART;TZID=America/New_York:20250815T091500
 DTEND;TZID=America/New_York:20250815T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1765,6 +2020,7 @@ DTSTART;TZID=America/New_York:20250818T091500
 DTEND;TZID=America/New_York:20250818T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1772,6 +2028,7 @@ DTSTART;TZID=America/New_York:20250819T091500
 DTEND;TZID=America/New_York:20250819T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1779,6 +2036,7 @@ DTSTART;TZID=America/New_York:20250820T091500
 DTEND;TZID=America/New_York:20250820T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1786,6 +2044,7 @@ DTSTART;TZID=America/New_York:20250821T091500
 DTEND;TZID=America/New_York:20250821T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1793,6 +2052,7 @@ DTSTART;TZID=America/New_York:20250822T091500
 DTEND;TZID=America/New_York:20250822T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1800,6 +2060,7 @@ DTSTART;TZID=America/New_York:20250825T091500
 DTEND;TZID=America/New_York:20250825T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1807,6 +2068,7 @@ DTSTART;TZID=America/New_York:20250826T091500
 DTEND;TZID=America/New_York:20250826T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1814,6 +2076,7 @@ DTSTART;TZID=America/New_York:20250827T091500
 DTEND;TZID=America/New_York:20250827T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1821,6 +2084,7 @@ DTSTART;TZID=America/New_York:20250828T091500
 DTEND;TZID=America/New_York:20250828T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1828,6 +2092,7 @@ DTSTART;TZID=America/New_York:20250829T091500
 DTEND;TZID=America/New_York:20250829T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1835,6 +2100,7 @@ DTSTART;TZID=America/New_York:20250901T091500
 DTEND;TZID=America/New_York:20250901T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1842,6 +2108,7 @@ DTSTART;TZID=America/New_York:20250902T091500
 DTEND;TZID=America/New_York:20250902T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1849,6 +2116,7 @@ DTSTART;TZID=America/New_York:20250903T091500
 DTEND;TZID=America/New_York:20250903T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1856,6 +2124,7 @@ DTSTART;TZID=America/New_York:20250904T091500
 DTEND;TZID=America/New_York:20250904T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1863,6 +2132,7 @@ DTSTART;TZID=America/New_York:20250905T091500
 DTEND;TZID=America/New_York:20250905T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1870,6 +2140,7 @@ DTSTART;TZID=America/New_York:20250908T091500
 DTEND;TZID=America/New_York:20250908T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1877,6 +2148,7 @@ DTSTART;TZID=America/New_York:20250909T091500
 DTEND;TZID=America/New_York:20250909T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1884,6 +2156,7 @@ DTSTART;TZID=America/New_York:20250910T091500
 DTEND;TZID=America/New_York:20250910T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1891,6 +2164,7 @@ DTSTART;TZID=America/New_York:20250911T091500
 DTEND;TZID=America/New_York:20250911T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1898,6 +2172,7 @@ DTSTART;TZID=America/New_York:20250912T091500
 DTEND;TZID=America/New_York:20250912T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1905,6 +2180,7 @@ DTSTART;TZID=America/New_York:20250915T091500
 DTEND;TZID=America/New_York:20250915T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1912,6 +2188,7 @@ DTSTART;TZID=America/New_York:20250916T091500
 DTEND;TZID=America/New_York:20250916T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1919,6 +2196,7 @@ DTSTART;TZID=America/New_York:20250917T091500
 DTEND;TZID=America/New_York:20250917T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1926,6 +2204,7 @@ DTSTART;TZID=America/New_York:20250918T091500
 DTEND;TZID=America/New_York:20250918T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1933,6 +2212,7 @@ DTSTART;TZID=America/New_York:20250919T091500
 DTEND;TZID=America/New_York:20250919T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1940,6 +2220,7 @@ DTSTART;TZID=America/New_York:20250922T091500
 DTEND;TZID=America/New_York:20250922T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1947,6 +2228,7 @@ DTSTART;TZID=America/New_York:20250923T091500
 DTEND;TZID=America/New_York:20250923T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1954,6 +2236,7 @@ DTSTART;TZID=America/New_York:20250924T091500
 DTEND;TZID=America/New_York:20250924T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1961,6 +2244,7 @@ DTSTART;TZID=America/New_York:20250925T091500
 DTEND;TZID=America/New_York:20250925T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1968,6 +2252,7 @@ DTSTART;TZID=America/New_York:20250926T091500
 DTEND;TZID=America/New_York:20250926T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1975,6 +2260,7 @@ DTSTART;TZID=America/New_York:20250929T091500
 DTEND;TZID=America/New_York:20250929T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1982,6 +2268,7 @@ DTSTART;TZID=America/New_York:20250930T091500
 DTEND;TZID=America/New_York:20250930T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1989,6 +2276,7 @@ DTSTART;TZID=America/New_York:20251001T091500
 DTEND;TZID=America/New_York:20251001T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -1996,6 +2284,7 @@ DTSTART;TZID=America/New_York:20251002T091500
 DTEND;TZID=America/New_York:20251002T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -2003,6 +2292,7 @@ DTSTART;TZID=America/New_York:20251003T091500
 DTEND;TZID=America/New_York:20251003T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -2010,6 +2300,7 @@ DTSTART;TZID=America/New_York:20251006T091500
 DTEND;TZID=America/New_York:20251006T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -2017,6 +2308,7 @@ DTSTART;TZID=America/New_York:20251007T091500
 DTEND;TZID=America/New_York:20251007T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -2024,6 +2316,7 @@ DTSTART;TZID=America/New_York:20251008T091500
 DTEND;TZID=America/New_York:20251008T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -2031,6 +2324,7 @@ DTSTART;TZID=America/New_York:20251009T091500
 DTEND;TZID=America/New_York:20251009T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -2038,6 +2332,7 @@ DTSTART;TZID=America/New_York:20251010T091500
 DTEND;TZID=America/New_York:20251010T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -2045,6 +2340,7 @@ DTSTART;TZID=America/New_York:20251013T091500
 DTEND;TZID=America/New_York:20251013T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -2052,6 +2348,7 @@ DTSTART;TZID=America/New_York:20251014T091500
 DTEND;TZID=America/New_York:20251014T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -2059,6 +2356,7 @@ DTSTART;TZID=America/New_York:20251015T091500
 DTEND;TZID=America/New_York:20251015T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -2066,6 +2364,7 @@ DTSTART;TZID=America/New_York:20251016T091500
 DTEND;TZID=America/New_York:20251016T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -2073,6 +2372,7 @@ DTSTART;TZID=America/New_York:20251017T091500
 DTEND;TZID=America/New_York:20251017T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -2080,6 +2380,7 @@ DTSTART;TZID=America/New_York:20251020T091500
 DTEND;TZID=America/New_York:20251020T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -2087,6 +2388,7 @@ DTSTART;TZID=America/New_York:20251021T091500
 DTEND;TZID=America/New_York:20251021T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -2094,6 +2396,7 @@ DTSTART;TZID=America/New_York:20251022T091500
 DTEND;TZID=America/New_York:20251022T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -2101,6 +2404,7 @@ DTSTART;TZID=America/New_York:20251023T091500
 DTEND;TZID=America/New_York:20251023T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -2108,6 +2412,7 @@ DTSTART;TZID=America/New_York:20251024T091500
 DTEND;TZID=America/New_York:20251024T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -2115,6 +2420,7 @@ DTSTART;TZID=America/New_York:20251027T091500
 DTEND;TZID=America/New_York:20251027T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -2122,6 +2428,7 @@ DTSTART;TZID=America/New_York:20251028T091500
 DTEND;TZID=America/New_York:20251028T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -2129,6 +2436,7 @@ DTSTART;TZID=America/New_York:20251029T091500
 DTEND;TZID=America/New_York:20251029T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -2136,6 +2444,7 @@ DTSTART;TZID=America/New_York:20251030T091500
 DTEND;TZID=America/New_York:20251030T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -2143,6 +2452,7 @@ DTSTART;TZID=America/New_York:20251031T091500
 DTEND;TZID=America/New_York:20251031T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -2150,6 +2460,7 @@ DTSTART;TZID=America/New_York:20251103T091500
 DTEND;TZID=America/New_York:20251103T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -2157,6 +2468,7 @@ DTSTART;TZID=America/New_York:20251104T091500
 DTEND;TZID=America/New_York:20251104T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -2164,6 +2476,7 @@ DTSTART;TZID=America/New_York:20251105T091500
 DTEND;TZID=America/New_York:20251105T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -2171,6 +2484,7 @@ DTSTART;TZID=America/New_York:20251106T091500
 DTEND;TZID=America/New_York:20251106T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -2178,6 +2492,7 @@ DTSTART;TZID=America/New_York:20251107T091500
 DTEND;TZID=America/New_York:20251107T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -2185,6 +2500,7 @@ DTSTART;TZID=America/New_York:20251110T091500
 DTEND;TZID=America/New_York:20251110T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -2192,6 +2508,7 @@ DTSTART;TZID=America/New_York:20251111T091500
 DTEND;TZID=America/New_York:20251111T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -2199,6 +2516,7 @@ DTSTART;TZID=America/New_York:20251112T091500
 DTEND;TZID=America/New_York:20251112T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -2206,6 +2524,7 @@ DTSTART;TZID=America/New_York:20251113T091500
 DTEND;TZID=America/New_York:20251113T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -2213,6 +2532,7 @@ DTSTART;TZID=America/New_York:20251114T091500
 DTEND;TZID=America/New_York:20251114T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -2220,6 +2540,7 @@ DTSTART;TZID=America/New_York:20251117T091500
 DTEND;TZID=America/New_York:20251117T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -2227,6 +2548,7 @@ DTSTART;TZID=America/New_York:20251118T091500
 DTEND;TZID=America/New_York:20251118T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -2234,6 +2556,7 @@ DTSTART;TZID=America/New_York:20251119T091500
 DTEND;TZID=America/New_York:20251119T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -2241,6 +2564,7 @@ DTSTART;TZID=America/New_York:20251120T091500
 DTEND;TZID=America/New_York:20251120T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -2248,6 +2572,7 @@ DTSTART;TZID=America/New_York:20251121T091500
 DTEND;TZID=America/New_York:20251121T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -2255,6 +2580,7 @@ DTSTART;TZID=America/New_York:20251124T091500
 DTEND;TZID=America/New_York:20251124T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -2262,6 +2588,7 @@ DTSTART;TZID=America/New_York:20251125T091500
 DTEND;TZID=America/New_York:20251125T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -2269,6 +2596,7 @@ DTSTART;TZID=America/New_York:20251126T091500
 DTEND;TZID=America/New_York:20251126T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -2276,6 +2604,7 @@ DTSTART;TZID=America/New_York:20251127T091500
 DTEND;TZID=America/New_York:20251127T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -2283,6 +2612,7 @@ DTSTART;TZID=America/New_York:20251128T091500
 DTEND;TZID=America/New_York:20251128T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -2290,6 +2620,7 @@ DTSTART;TZID=America/New_York:20251201T091500
 DTEND;TZID=America/New_York:20251201T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -2297,6 +2628,7 @@ DTSTART;TZID=America/New_York:20251202T091500
 DTEND;TZID=America/New_York:20251202T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -2304,6 +2636,7 @@ DTSTART;TZID=America/New_York:20251203T091500
 DTEND;TZID=America/New_York:20251203T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -2311,6 +2644,7 @@ DTSTART;TZID=America/New_York:20251204T091500
 DTEND;TZID=America/New_York:20251204T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -2318,6 +2652,7 @@ DTSTART;TZID=America/New_York:20251205T091500
 DTEND;TZID=America/New_York:20251205T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -2325,6 +2660,7 @@ DTSTART;TZID=America/New_York:20251208T091500
 DTEND;TZID=America/New_York:20251208T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -2332,6 +2668,7 @@ DTSTART;TZID=America/New_York:20251209T091500
 DTEND;TZID=America/New_York:20251209T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -2339,6 +2676,7 @@ DTSTART;TZID=America/New_York:20251210T091500
 DTEND;TZID=America/New_York:20251210T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -2346,6 +2684,7 @@ DTSTART;TZID=America/New_York:20251211T091500
 DTEND;TZID=America/New_York:20251211T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -2353,6 +2692,7 @@ DTSTART;TZID=America/New_York:20251212T091500
 DTEND;TZID=America/New_York:20251212T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -2360,6 +2700,7 @@ DTSTART;TZID=America/New_York:20251215T091500
 DTEND;TZID=America/New_York:20251215T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -2367,6 +2708,7 @@ DTSTART;TZID=America/New_York:20251216T091500
 DTEND;TZID=America/New_York:20251216T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -2374,6 +2716,7 @@ DTSTART;TZID=America/New_York:20251217T091500
 DTEND;TZID=America/New_York:20251217T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -2381,6 +2724,7 @@ DTSTART;TZID=America/New_York:20251218T091500
 DTEND;TZID=America/New_York:20251218T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -2388,6 +2732,7 @@ DTSTART;TZID=America/New_York:20251219T091500
 DTEND;TZID=America/New_York:20251219T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -2395,6 +2740,7 @@ DTSTART;TZID=America/New_York:20251222T091500
 DTEND;TZID=America/New_York:20251222T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -2402,6 +2748,7 @@ DTSTART;TZID=America/New_York:20251223T091500
 DTEND;TZID=America/New_York:20251223T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -2409,6 +2756,7 @@ DTSTART;TZID=America/New_York:20251224T091500
 DTEND;TZID=America/New_York:20251224T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -2416,6 +2764,7 @@ DTSTART;TZID=America/New_York:20251225T091500
 DTEND;TZID=America/New_York:20251225T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -2423,6 +2772,7 @@ DTSTART;TZID=America/New_York:20251226T091500
 DTEND;TZID=America/New_York:20251226T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -2430,6 +2780,7 @@ DTSTART;TZID=America/New_York:20251229T091500
 DTEND;TZID=America/New_York:20251229T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -2437,6 +2788,7 @@ DTSTART;TZID=America/New_York:20251230T091500
 DTEND;TZID=America/New_York:20251230T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Scrum
@@ -2444,6 +2796,7 @@ DTSTART;TZID=America/New_York:20251231T091500
 DTEND;TZID=America/New_York:20251231T093000
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -2451,6 +2804,7 @@ DTSTART;TZID=America/New_York:20250311T090000
 DTEND;TZID=America/New_York:20250311T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -2458,6 +2812,7 @@ DTSTART;TZID=America/New_York:20250312T090000
 DTEND;TZID=America/New_York:20250312T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -2465,6 +2820,7 @@ DTSTART;TZID=America/New_York:20250313T090000
 DTEND;TZID=America/New_York:20250313T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -2472,6 +2828,7 @@ DTSTART;TZID=America/New_York:20250314T090000
 DTEND;TZID=America/New_York:20250314T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -2479,6 +2836,7 @@ DTSTART;TZID=America/New_York:20250317T090000
 DTEND;TZID=America/New_York:20250317T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -2486,6 +2844,7 @@ DTSTART;TZID=America/New_York:20250318T090000
 DTEND;TZID=America/New_York:20250318T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -2493,6 +2852,7 @@ DTSTART;TZID=America/New_York:20250319T090000
 DTEND;TZID=America/New_York:20250319T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -2500,6 +2860,7 @@ DTSTART;TZID=America/New_York:20250320T090000
 DTEND;TZID=America/New_York:20250320T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -2507,6 +2868,7 @@ DTSTART;TZID=America/New_York:20250321T090000
 DTEND;TZID=America/New_York:20250321T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -2514,6 +2876,7 @@ DTSTART;TZID=America/New_York:20250324T090000
 DTEND;TZID=America/New_York:20250324T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -2521,6 +2884,7 @@ DTSTART;TZID=America/New_York:20250325T090000
 DTEND;TZID=America/New_York:20250325T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -2528,6 +2892,7 @@ DTSTART;TZID=America/New_York:20250326T090000
 DTEND;TZID=America/New_York:20250326T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -2535,6 +2900,7 @@ DTSTART;TZID=America/New_York:20250327T090000
 DTEND;TZID=America/New_York:20250327T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -2542,6 +2908,7 @@ DTSTART;TZID=America/New_York:20250328T090000
 DTEND;TZID=America/New_York:20250328T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -2549,6 +2916,7 @@ DTSTART;TZID=America/New_York:20250331T090000
 DTEND;TZID=America/New_York:20250331T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -2556,6 +2924,7 @@ DTSTART;TZID=America/New_York:20250401T090000
 DTEND;TZID=America/New_York:20250401T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -2563,6 +2932,7 @@ DTSTART;TZID=America/New_York:20250402T090000
 DTEND;TZID=America/New_York:20250402T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -2570,6 +2940,7 @@ DTSTART;TZID=America/New_York:20250403T090000
 DTEND;TZID=America/New_York:20250403T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -2577,6 +2948,7 @@ DTSTART;TZID=America/New_York:20250404T090000
 DTEND;TZID=America/New_York:20250404T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -2584,6 +2956,7 @@ DTSTART;TZID=America/New_York:20250407T090000
 DTEND;TZID=America/New_York:20250407T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -2591,6 +2964,7 @@ DTSTART;TZID=America/New_York:20250408T090000
 DTEND;TZID=America/New_York:20250408T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -2598,6 +2972,7 @@ DTSTART;TZID=America/New_York:20250409T090000
 DTEND;TZID=America/New_York:20250409T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -2605,6 +2980,7 @@ DTSTART;TZID=America/New_York:20250410T090000
 DTEND;TZID=America/New_York:20250410T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -2612,6 +2988,7 @@ DTSTART;TZID=America/New_York:20250411T090000
 DTEND;TZID=America/New_York:20250411T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -2619,6 +2996,7 @@ DTSTART;TZID=America/New_York:20250414T090000
 DTEND;TZID=America/New_York:20250414T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -2626,6 +3004,7 @@ DTSTART;TZID=America/New_York:20250415T090000
 DTEND;TZID=America/New_York:20250415T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -2633,6 +3012,7 @@ DTSTART;TZID=America/New_York:20250416T090000
 DTEND;TZID=America/New_York:20250416T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -2640,6 +3020,7 @@ DTSTART;TZID=America/New_York:20250417T090000
 DTEND;TZID=America/New_York:20250417T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -2647,6 +3028,7 @@ DTSTART;TZID=America/New_York:20250418T090000
 DTEND;TZID=America/New_York:20250418T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -2654,6 +3036,7 @@ DTSTART;TZID=America/New_York:20250421T090000
 DTEND;TZID=America/New_York:20250421T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -2661,6 +3044,7 @@ DTSTART;TZID=America/New_York:20250422T090000
 DTEND;TZID=America/New_York:20250422T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -2668,6 +3052,7 @@ DTSTART;TZID=America/New_York:20250423T090000
 DTEND;TZID=America/New_York:20250423T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -2675,6 +3060,7 @@ DTSTART;TZID=America/New_York:20250424T090000
 DTEND;TZID=America/New_York:20250424T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -2682,6 +3068,7 @@ DTSTART;TZID=America/New_York:20250425T090000
 DTEND;TZID=America/New_York:20250425T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -2689,6 +3076,7 @@ DTSTART;TZID=America/New_York:20250428T090000
 DTEND;TZID=America/New_York:20250428T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -2696,6 +3084,7 @@ DTSTART;TZID=America/New_York:20250429T090000
 DTEND;TZID=America/New_York:20250429T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -2703,6 +3092,7 @@ DTSTART;TZID=America/New_York:20250430T090000
 DTEND;TZID=America/New_York:20250430T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -2710,6 +3100,7 @@ DTSTART;TZID=America/New_York:20250502T090000
 DTEND;TZID=America/New_York:20250502T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -2717,6 +3108,7 @@ DTSTART;TZID=America/New_York:20250505T090000
 DTEND;TZID=America/New_York:20250505T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -2724,6 +3116,7 @@ DTSTART;TZID=America/New_York:20250506T090000
 DTEND;TZID=America/New_York:20250506T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -2731,6 +3124,7 @@ DTSTART;TZID=America/New_York:20250507T090000
 DTEND;TZID=America/New_York:20250507T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -2738,6 +3132,7 @@ DTSTART;TZID=America/New_York:20250508T090000
 DTEND;TZID=America/New_York:20250508T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -2745,6 +3140,7 @@ DTSTART;TZID=America/New_York:20250509T090000
 DTEND;TZID=America/New_York:20250509T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -2752,6 +3148,7 @@ DTSTART;TZID=America/New_York:20250512T090000
 DTEND;TZID=America/New_York:20250512T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -2759,6 +3156,7 @@ DTSTART;TZID=America/New_York:20250513T090000
 DTEND;TZID=America/New_York:20250513T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -2766,6 +3164,7 @@ DTSTART;TZID=America/New_York:20250514T090000
 DTEND;TZID=America/New_York:20250514T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -2773,6 +3172,7 @@ DTSTART;TZID=America/New_York:20250515T090000
 DTEND;TZID=America/New_York:20250515T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -2780,6 +3180,7 @@ DTSTART;TZID=America/New_York:20250516T090000
 DTEND;TZID=America/New_York:20250516T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -2787,6 +3188,7 @@ DTSTART;TZID=America/New_York:20250519T090000
 DTEND;TZID=America/New_York:20250519T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -2794,6 +3196,7 @@ DTSTART;TZID=America/New_York:20250520T090000
 DTEND;TZID=America/New_York:20250520T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -2801,6 +3204,7 @@ DTSTART;TZID=America/New_York:20250521T090000
 DTEND;TZID=America/New_York:20250521T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -2808,6 +3212,7 @@ DTSTART;TZID=America/New_York:20250522T090000
 DTEND;TZID=America/New_York:20250522T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -2815,6 +3220,7 @@ DTSTART;TZID=America/New_York:20250523T090000
 DTEND;TZID=America/New_York:20250523T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -2822,6 +3228,7 @@ DTSTART;TZID=America/New_York:20250526T090000
 DTEND;TZID=America/New_York:20250526T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -2829,6 +3236,7 @@ DTSTART;TZID=America/New_York:20250527T090000
 DTEND;TZID=America/New_York:20250527T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -2836,6 +3244,7 @@ DTSTART;TZID=America/New_York:20250528T090000
 DTEND;TZID=America/New_York:20250528T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -2843,6 +3252,7 @@ DTSTART;TZID=America/New_York:20250529T090000
 DTEND;TZID=America/New_York:20250529T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -2850,6 +3260,7 @@ DTSTART;TZID=America/New_York:20250530T090000
 DTEND;TZID=America/New_York:20250530T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -2857,6 +3268,7 @@ DTSTART;TZID=America/New_York:20250602T090000
 DTEND;TZID=America/New_York:20250602T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -2864,6 +3276,7 @@ DTSTART;TZID=America/New_York:20250603T090000
 DTEND;TZID=America/New_York:20250603T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -2871,6 +3284,7 @@ DTSTART;TZID=America/New_York:20250604T090000
 DTEND;TZID=America/New_York:20250604T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -2878,6 +3292,7 @@ DTSTART;TZID=America/New_York:20250605T090000
 DTEND;TZID=America/New_York:20250605T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -2885,6 +3300,7 @@ DTSTART;TZID=America/New_York:20250606T090000
 DTEND;TZID=America/New_York:20250606T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -2892,6 +3308,7 @@ DTSTART;TZID=America/New_York:20250609T090000
 DTEND;TZID=America/New_York:20250609T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -2899,6 +3316,7 @@ DTSTART;TZID=America/New_York:20250610T090000
 DTEND;TZID=America/New_York:20250610T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -2906,6 +3324,7 @@ DTSTART;TZID=America/New_York:20250611T090000
 DTEND;TZID=America/New_York:20250611T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -2913,6 +3332,7 @@ DTSTART;TZID=America/New_York:20250612T090000
 DTEND;TZID=America/New_York:20250612T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -2920,6 +3340,7 @@ DTSTART;TZID=America/New_York:20250613T090000
 DTEND;TZID=America/New_York:20250613T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -2927,6 +3348,7 @@ DTSTART;TZID=America/New_York:20250616T090000
 DTEND;TZID=America/New_York:20250616T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -2934,6 +3356,7 @@ DTSTART;TZID=America/New_York:20250617T090000
 DTEND;TZID=America/New_York:20250617T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -2941,6 +3364,7 @@ DTSTART;TZID=America/New_York:20250618T090000
 DTEND;TZID=America/New_York:20250618T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -2948,6 +3372,7 @@ DTSTART;TZID=America/New_York:20250619T090000
 DTEND;TZID=America/New_York:20250619T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -2955,6 +3380,7 @@ DTSTART;TZID=America/New_York:20250620T090000
 DTEND;TZID=America/New_York:20250620T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -2962,6 +3388,7 @@ DTSTART;TZID=America/New_York:20250623T090000
 DTEND;TZID=America/New_York:20250623T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -2969,6 +3396,7 @@ DTSTART;TZID=America/New_York:20250624T090000
 DTEND;TZID=America/New_York:20250624T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -2976,6 +3404,7 @@ DTSTART;TZID=America/New_York:20250625T090000
 DTEND;TZID=America/New_York:20250625T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -2983,6 +3412,7 @@ DTSTART;TZID=America/New_York:20250626T090000
 DTEND;TZID=America/New_York:20250626T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -2990,6 +3420,7 @@ DTSTART;TZID=America/New_York:20250627T090000
 DTEND;TZID=America/New_York:20250627T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -2997,6 +3428,7 @@ DTSTART;TZID=America/New_York:20250630T090000
 DTEND;TZID=America/New_York:20250630T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3004,6 +3436,7 @@ DTSTART;TZID=America/New_York:20250701T090000
 DTEND;TZID=America/New_York:20250701T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3011,6 +3444,7 @@ DTSTART;TZID=America/New_York:20250702T090000
 DTEND;TZID=America/New_York:20250702T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3018,6 +3452,7 @@ DTSTART;TZID=America/New_York:20250703T090000
 DTEND;TZID=America/New_York:20250703T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3025,6 +3460,7 @@ DTSTART;TZID=America/New_York:20250704T090000
 DTEND;TZID=America/New_York:20250704T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3032,6 +3468,7 @@ DTSTART;TZID=America/New_York:20250707T090000
 DTEND;TZID=America/New_York:20250707T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3039,6 +3476,7 @@ DTSTART;TZID=America/New_York:20250708T090000
 DTEND;TZID=America/New_York:20250708T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3046,6 +3484,7 @@ DTSTART;TZID=America/New_York:20250709T090000
 DTEND;TZID=America/New_York:20250709T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3053,6 +3492,7 @@ DTSTART;TZID=America/New_York:20250710T090000
 DTEND;TZID=America/New_York:20250710T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3060,6 +3500,7 @@ DTSTART;TZID=America/New_York:20250711T090000
 DTEND;TZID=America/New_York:20250711T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3067,6 +3508,7 @@ DTSTART;TZID=America/New_York:20250714T090000
 DTEND;TZID=America/New_York:20250714T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3074,6 +3516,7 @@ DTSTART;TZID=America/New_York:20250715T090000
 DTEND;TZID=America/New_York:20250715T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3081,6 +3524,7 @@ DTSTART;TZID=America/New_York:20250716T090000
 DTEND;TZID=America/New_York:20250716T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3088,6 +3532,7 @@ DTSTART;TZID=America/New_York:20250717T090000
 DTEND;TZID=America/New_York:20250717T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3095,6 +3540,7 @@ DTSTART;TZID=America/New_York:20250718T090000
 DTEND;TZID=America/New_York:20250718T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3102,6 +3548,7 @@ DTSTART;TZID=America/New_York:20250721T090000
 DTEND;TZID=America/New_York:20250721T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3109,6 +3556,7 @@ DTSTART;TZID=America/New_York:20250722T090000
 DTEND;TZID=America/New_York:20250722T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3116,6 +3564,7 @@ DTSTART;TZID=America/New_York:20250723T090000
 DTEND;TZID=America/New_York:20250723T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3123,6 +3572,7 @@ DTSTART;TZID=America/New_York:20250724T090000
 DTEND;TZID=America/New_York:20250724T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3130,6 +3580,7 @@ DTSTART;TZID=America/New_York:20250725T090000
 DTEND;TZID=America/New_York:20250725T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3137,6 +3588,7 @@ DTSTART;TZID=America/New_York:20250728T090000
 DTEND;TZID=America/New_York:20250728T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3144,6 +3596,7 @@ DTSTART;TZID=America/New_York:20250729T090000
 DTEND;TZID=America/New_York:20250729T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3151,6 +3604,7 @@ DTSTART;TZID=America/New_York:20250730T090000
 DTEND;TZID=America/New_York:20250730T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3158,6 +3612,7 @@ DTSTART;TZID=America/New_York:20250731T090000
 DTEND;TZID=America/New_York:20250731T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3165,6 +3620,7 @@ DTSTART;TZID=America/New_York:20250801T090000
 DTEND;TZID=America/New_York:20250801T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3172,6 +3628,7 @@ DTSTART;TZID=America/New_York:20250804T090000
 DTEND;TZID=America/New_York:20250804T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3179,6 +3636,7 @@ DTSTART;TZID=America/New_York:20250805T090000
 DTEND;TZID=America/New_York:20250805T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3186,6 +3644,7 @@ DTSTART;TZID=America/New_York:20250806T090000
 DTEND;TZID=America/New_York:20250806T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3193,6 +3652,7 @@ DTSTART;TZID=America/New_York:20250807T090000
 DTEND;TZID=America/New_York:20250807T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3200,6 +3660,7 @@ DTSTART;TZID=America/New_York:20250808T090000
 DTEND;TZID=America/New_York:20250808T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3207,6 +3668,7 @@ DTSTART;TZID=America/New_York:20250811T090000
 DTEND;TZID=America/New_York:20250811T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3214,6 +3676,7 @@ DTSTART;TZID=America/New_York:20250812T090000
 DTEND;TZID=America/New_York:20250812T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3221,6 +3684,7 @@ DTSTART;TZID=America/New_York:20250813T090000
 DTEND;TZID=America/New_York:20250813T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3228,6 +3692,7 @@ DTSTART;TZID=America/New_York:20250814T090000
 DTEND;TZID=America/New_York:20250814T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3235,6 +3700,7 @@ DTSTART;TZID=America/New_York:20250815T090000
 DTEND;TZID=America/New_York:20250815T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3242,6 +3708,7 @@ DTSTART;TZID=America/New_York:20250818T090000
 DTEND;TZID=America/New_York:20250818T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3249,6 +3716,7 @@ DTSTART;TZID=America/New_York:20250819T090000
 DTEND;TZID=America/New_York:20250819T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3256,6 +3724,7 @@ DTSTART;TZID=America/New_York:20250820T090000
 DTEND;TZID=America/New_York:20250820T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3263,6 +3732,7 @@ DTSTART;TZID=America/New_York:20250821T090000
 DTEND;TZID=America/New_York:20250821T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3270,6 +3740,7 @@ DTSTART;TZID=America/New_York:20250822T090000
 DTEND;TZID=America/New_York:20250822T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3277,6 +3748,7 @@ DTSTART;TZID=America/New_York:20250825T090000
 DTEND;TZID=America/New_York:20250825T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3284,6 +3756,7 @@ DTSTART;TZID=America/New_York:20250826T090000
 DTEND;TZID=America/New_York:20250826T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3291,6 +3764,7 @@ DTSTART;TZID=America/New_York:20250827T090000
 DTEND;TZID=America/New_York:20250827T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3298,6 +3772,7 @@ DTSTART;TZID=America/New_York:20250828T090000
 DTEND;TZID=America/New_York:20250828T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3305,6 +3780,7 @@ DTSTART;TZID=America/New_York:20250829T090000
 DTEND;TZID=America/New_York:20250829T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3312,6 +3788,7 @@ DTSTART;TZID=America/New_York:20250901T090000
 DTEND;TZID=America/New_York:20250901T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3319,6 +3796,7 @@ DTSTART;TZID=America/New_York:20250902T090000
 DTEND;TZID=America/New_York:20250902T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3326,6 +3804,7 @@ DTSTART;TZID=America/New_York:20250903T090000
 DTEND;TZID=America/New_York:20250903T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3333,6 +3812,7 @@ DTSTART;TZID=America/New_York:20250904T090000
 DTEND;TZID=America/New_York:20250904T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3340,6 +3820,7 @@ DTSTART;TZID=America/New_York:20250905T090000
 DTEND;TZID=America/New_York:20250905T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3347,6 +3828,7 @@ DTSTART;TZID=America/New_York:20250908T090000
 DTEND;TZID=America/New_York:20250908T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3354,6 +3836,7 @@ DTSTART;TZID=America/New_York:20250909T090000
 DTEND;TZID=America/New_York:20250909T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3361,6 +3844,7 @@ DTSTART;TZID=America/New_York:20250910T090000
 DTEND;TZID=America/New_York:20250910T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3368,6 +3852,7 @@ DTSTART;TZID=America/New_York:20250911T090000
 DTEND;TZID=America/New_York:20250911T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3375,6 +3860,7 @@ DTSTART;TZID=America/New_York:20250912T090000
 DTEND;TZID=America/New_York:20250912T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3382,6 +3868,7 @@ DTSTART;TZID=America/New_York:20250915T090000
 DTEND;TZID=America/New_York:20250915T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3389,6 +3876,7 @@ DTSTART;TZID=America/New_York:20250916T090000
 DTEND;TZID=America/New_York:20250916T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3396,6 +3884,7 @@ DTSTART;TZID=America/New_York:20250917T090000
 DTEND;TZID=America/New_York:20250917T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3403,6 +3892,7 @@ DTSTART;TZID=America/New_York:20250918T090000
 DTEND;TZID=America/New_York:20250918T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3410,6 +3900,7 @@ DTSTART;TZID=America/New_York:20250919T090000
 DTEND;TZID=America/New_York:20250919T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3417,6 +3908,7 @@ DTSTART;TZID=America/New_York:20250922T090000
 DTEND;TZID=America/New_York:20250922T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3424,6 +3916,7 @@ DTSTART;TZID=America/New_York:20250923T090000
 DTEND;TZID=America/New_York:20250923T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3431,6 +3924,7 @@ DTSTART;TZID=America/New_York:20250924T090000
 DTEND;TZID=America/New_York:20250924T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3438,6 +3932,7 @@ DTSTART;TZID=America/New_York:20250925T090000
 DTEND;TZID=America/New_York:20250925T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3445,6 +3940,7 @@ DTSTART;TZID=America/New_York:20250926T090000
 DTEND;TZID=America/New_York:20250926T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3452,6 +3948,7 @@ DTSTART;TZID=America/New_York:20250929T090000
 DTEND;TZID=America/New_York:20250929T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3459,6 +3956,7 @@ DTSTART;TZID=America/New_York:20250930T090000
 DTEND;TZID=America/New_York:20250930T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3466,6 +3964,7 @@ DTSTART;TZID=America/New_York:20251001T090000
 DTEND;TZID=America/New_York:20251001T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3473,6 +3972,7 @@ DTSTART;TZID=America/New_York:20251002T090000
 DTEND;TZID=America/New_York:20251002T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3480,6 +3980,7 @@ DTSTART;TZID=America/New_York:20251003T090000
 DTEND;TZID=America/New_York:20251003T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3487,6 +3988,7 @@ DTSTART;TZID=America/New_York:20251006T090000
 DTEND;TZID=America/New_York:20251006T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3494,6 +3996,7 @@ DTSTART;TZID=America/New_York:20251007T090000
 DTEND;TZID=America/New_York:20251007T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3501,6 +4004,7 @@ DTSTART;TZID=America/New_York:20251008T090000
 DTEND;TZID=America/New_York:20251008T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3508,6 +4012,7 @@ DTSTART;TZID=America/New_York:20251009T090000
 DTEND;TZID=America/New_York:20251009T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3515,6 +4020,7 @@ DTSTART;TZID=America/New_York:20251010T090000
 DTEND;TZID=America/New_York:20251010T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3522,6 +4028,7 @@ DTSTART;TZID=America/New_York:20251013T090000
 DTEND;TZID=America/New_York:20251013T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3529,6 +4036,7 @@ DTSTART;TZID=America/New_York:20251014T090000
 DTEND;TZID=America/New_York:20251014T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3536,6 +4044,7 @@ DTSTART;TZID=America/New_York:20251015T090000
 DTEND;TZID=America/New_York:20251015T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3543,6 +4052,7 @@ DTSTART;TZID=America/New_York:20251016T090000
 DTEND;TZID=America/New_York:20251016T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3550,6 +4060,7 @@ DTSTART;TZID=America/New_York:20251017T090000
 DTEND;TZID=America/New_York:20251017T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3557,6 +4068,7 @@ DTSTART;TZID=America/New_York:20251020T090000
 DTEND;TZID=America/New_York:20251020T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3564,6 +4076,7 @@ DTSTART;TZID=America/New_York:20251021T090000
 DTEND;TZID=America/New_York:20251021T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3571,6 +4084,7 @@ DTSTART;TZID=America/New_York:20251022T090000
 DTEND;TZID=America/New_York:20251022T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3578,6 +4092,7 @@ DTSTART;TZID=America/New_York:20251023T090000
 DTEND;TZID=America/New_York:20251023T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3585,6 +4100,7 @@ DTSTART;TZID=America/New_York:20251024T090000
 DTEND;TZID=America/New_York:20251024T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3592,6 +4108,7 @@ DTSTART;TZID=America/New_York:20251027T090000
 DTEND;TZID=America/New_York:20251027T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3599,6 +4116,7 @@ DTSTART;TZID=America/New_York:20251028T090000
 DTEND;TZID=America/New_York:20251028T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3606,6 +4124,7 @@ DTSTART;TZID=America/New_York:20251029T090000
 DTEND;TZID=America/New_York:20251029T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3613,6 +4132,7 @@ DTSTART;TZID=America/New_York:20251030T090000
 DTEND;TZID=America/New_York:20251030T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3620,6 +4140,7 @@ DTSTART;TZID=America/New_York:20251031T090000
 DTEND;TZID=America/New_York:20251031T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3627,6 +4148,7 @@ DTSTART;TZID=America/New_York:20251103T090000
 DTEND;TZID=America/New_York:20251103T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3634,6 +4156,7 @@ DTSTART;TZID=America/New_York:20251104T090000
 DTEND;TZID=America/New_York:20251104T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3641,6 +4164,7 @@ DTSTART;TZID=America/New_York:20251105T090000
 DTEND;TZID=America/New_York:20251105T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3648,6 +4172,7 @@ DTSTART;TZID=America/New_York:20251106T090000
 DTEND;TZID=America/New_York:20251106T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3655,6 +4180,7 @@ DTSTART;TZID=America/New_York:20251107T090000
 DTEND;TZID=America/New_York:20251107T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3662,6 +4188,7 @@ DTSTART;TZID=America/New_York:20251110T090000
 DTEND;TZID=America/New_York:20251110T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3669,6 +4196,7 @@ DTSTART;TZID=America/New_York:20251111T090000
 DTEND;TZID=America/New_York:20251111T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3676,6 +4204,7 @@ DTSTART;TZID=America/New_York:20251112T090000
 DTEND;TZID=America/New_York:20251112T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3683,6 +4212,7 @@ DTSTART;TZID=America/New_York:20251113T090000
 DTEND;TZID=America/New_York:20251113T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3690,6 +4220,7 @@ DTSTART;TZID=America/New_York:20251114T090000
 DTEND;TZID=America/New_York:20251114T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3697,6 +4228,7 @@ DTSTART;TZID=America/New_York:20251117T090000
 DTEND;TZID=America/New_York:20251117T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3704,6 +4236,7 @@ DTSTART;TZID=America/New_York:20251118T090000
 DTEND;TZID=America/New_York:20251118T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3711,6 +4244,7 @@ DTSTART;TZID=America/New_York:20251119T090000
 DTEND;TZID=America/New_York:20251119T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3718,6 +4252,7 @@ DTSTART;TZID=America/New_York:20251120T090000
 DTEND;TZID=America/New_York:20251120T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3725,6 +4260,7 @@ DTSTART;TZID=America/New_York:20251121T090000
 DTEND;TZID=America/New_York:20251121T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3732,6 +4268,7 @@ DTSTART;TZID=America/New_York:20251124T090000
 DTEND;TZID=America/New_York:20251124T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3739,6 +4276,7 @@ DTSTART;TZID=America/New_York:20251125T090000
 DTEND;TZID=America/New_York:20251125T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3746,6 +4284,7 @@ DTSTART;TZID=America/New_York:20251126T090000
 DTEND;TZID=America/New_York:20251126T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3753,6 +4292,7 @@ DTSTART;TZID=America/New_York:20251127T090000
 DTEND;TZID=America/New_York:20251127T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3760,6 +4300,7 @@ DTSTART;TZID=America/New_York:20251128T090000
 DTEND;TZID=America/New_York:20251128T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3767,6 +4308,7 @@ DTSTART;TZID=America/New_York:20251201T090000
 DTEND;TZID=America/New_York:20251201T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3774,6 +4316,7 @@ DTSTART;TZID=America/New_York:20251202T090000
 DTEND;TZID=America/New_York:20251202T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3781,6 +4324,7 @@ DTSTART;TZID=America/New_York:20251203T090000
 DTEND;TZID=America/New_York:20251203T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3788,6 +4332,7 @@ DTSTART;TZID=America/New_York:20251204T090000
 DTEND;TZID=America/New_York:20251204T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3795,6 +4340,7 @@ DTSTART;TZID=America/New_York:20251205T090000
 DTEND;TZID=America/New_York:20251205T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3802,6 +4348,7 @@ DTSTART;TZID=America/New_York:20251208T090000
 DTEND;TZID=America/New_York:20251208T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3809,6 +4356,7 @@ DTSTART;TZID=America/New_York:20251209T090000
 DTEND;TZID=America/New_York:20251209T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3816,6 +4364,7 @@ DTSTART;TZID=America/New_York:20251210T090000
 DTEND;TZID=America/New_York:20251210T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3823,6 +4372,7 @@ DTSTART;TZID=America/New_York:20251211T090000
 DTEND;TZID=America/New_York:20251211T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3830,6 +4380,7 @@ DTSTART;TZID=America/New_York:20251212T090000
 DTEND;TZID=America/New_York:20251212T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3837,6 +4388,7 @@ DTSTART;TZID=America/New_York:20251215T090000
 DTEND;TZID=America/New_York:20251215T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3844,6 +4396,7 @@ DTSTART;TZID=America/New_York:20251216T090000
 DTEND;TZID=America/New_York:20251216T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3851,6 +4404,7 @@ DTSTART;TZID=America/New_York:20251217T090000
 DTEND;TZID=America/New_York:20251217T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3858,6 +4412,7 @@ DTSTART;TZID=America/New_York:20251218T090000
 DTEND;TZID=America/New_York:20251218T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3865,6 +4420,7 @@ DTSTART;TZID=America/New_York:20251219T090000
 DTEND;TZID=America/New_York:20251219T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3872,6 +4428,7 @@ DTSTART;TZID=America/New_York:20251222T090000
 DTEND;TZID=America/New_York:20251222T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3879,6 +4436,7 @@ DTSTART;TZID=America/New_York:20251223T090000
 DTEND;TZID=America/New_York:20251223T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3886,6 +4444,7 @@ DTSTART;TZID=America/New_York:20251224T090000
 DTEND;TZID=America/New_York:20251224T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3893,6 +4452,7 @@ DTSTART;TZID=America/New_York:20251225T090000
 DTEND;TZID=America/New_York:20251225T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3900,6 +4460,7 @@ DTSTART;TZID=America/New_York:20251226T090000
 DTEND;TZID=America/New_York:20251226T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3907,6 +4468,7 @@ DTSTART;TZID=America/New_York:20251229T090000
 DTEND;TZID=America/New_York:20251229T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3914,6 +4476,7 @@ DTSTART;TZID=America/New_York:20251230T090000
 DTEND;TZID=America/New_York:20251230T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Scrum
@@ -3921,6 +4484,7 @@ DTSTART;TZID=America/New_York:20251231T090000
 DTEND;TZID=America/New_York:20251231T091500
 DESCRIPTION:The team inspects their progress\, makes adjustments as needed
  \, and plans for the coming day.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Sprint Ceremonies
@@ -3929,6 +4493,7 @@ DTEND;TZID=America/New_York:20250311T143000
 DESCRIPTION:During this time the team will close out their current sprint 
  and prepare for the next. To reduce the impact of meetings this will combi
  ne two ceremonies with a short break in between.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Sprint Ceremonies
@@ -3937,6 +4502,7 @@ DTEND;TZID=America/New_York:20250325T143000
 DESCRIPTION:During this time the team will close out their current sprint 
  and prepare for the next. To reduce the impact of meetings this will combi
  ne two ceremonies with a short break in between.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Sprint Ceremonies
@@ -3945,6 +4511,7 @@ DTEND;TZID=America/New_York:20250408T143000
 DESCRIPTION:During this time the team will close out their current sprint 
  and prepare for the next. To reduce the impact of meetings this will combi
  ne two ceremonies with a short break in between.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Sprint Ceremonies
@@ -3953,6 +4520,7 @@ DTEND;TZID=America/New_York:20250422T143000
 DESCRIPTION:During this time the team will close out their current sprint 
  and prepare for the next. To reduce the impact of meetings this will combi
  ne two ceremonies with a short break in between.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Sprint Ceremonies
@@ -3961,6 +4529,7 @@ DTEND;TZID=America/New_York:20250506T143000
 DESCRIPTION:During this time the team will close out their current sprint 
  and prepare for the next. To reduce the impact of meetings this will combi
  ne two ceremonies with a short break in between.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Sprint Ceremonies
@@ -3969,6 +4538,7 @@ DTEND;TZID=America/New_York:20250520T143000
 DESCRIPTION:During this time the team will close out their current sprint 
  and prepare for the next. To reduce the impact of meetings this will combi
  ne two ceremonies with a short break in between.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Sprint Ceremonies
@@ -3977,6 +4547,7 @@ DTEND;TZID=America/New_York:20250603T143000
 DESCRIPTION:During this time the team will close out their current sprint 
  and prepare for the next. To reduce the impact of meetings this will combi
  ne two ceremonies with a short break in between.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Sprint Ceremonies
@@ -3985,6 +4556,7 @@ DTEND;TZID=America/New_York:20250617T143000
 DESCRIPTION:During this time the team will close out their current sprint 
  and prepare for the next. To reduce the impact of meetings this will combi
  ne two ceremonies with a short break in between.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Sprint Ceremonies
@@ -3993,6 +4565,7 @@ DTEND;TZID=America/New_York:20250701T143000
 DESCRIPTION:During this time the team will close out their current sprint 
  and prepare for the next. To reduce the impact of meetings this will combi
  ne two ceremonies with a short break in between.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Sprint Ceremonies
@@ -4001,6 +4574,7 @@ DTEND;TZID=America/New_York:20250715T143000
 DESCRIPTION:During this time the team will close out their current sprint 
  and prepare for the next. To reduce the impact of meetings this will combi
  ne two ceremonies with a short break in between.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Sprint Ceremonies
@@ -4009,6 +4583,7 @@ DTEND;TZID=America/New_York:20250729T143000
 DESCRIPTION:During this time the team will close out their current sprint 
  and prepare for the next. To reduce the impact of meetings this will combi
  ne two ceremonies with a short break in between.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Sprint Ceremonies
@@ -4017,6 +4592,7 @@ DTEND;TZID=America/New_York:20250812T143000
 DESCRIPTION:During this time the team will close out their current sprint 
  and prepare for the next. To reduce the impact of meetings this will combi
  ne two ceremonies with a short break in between.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Sprint Ceremonies
@@ -4025,6 +4601,7 @@ DTEND;TZID=America/New_York:20250826T143000
 DESCRIPTION:During this time the team will close out their current sprint 
  and prepare for the next. To reduce the impact of meetings this will combi
  ne two ceremonies with a short break in between.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Sprint Ceremonies
@@ -4033,6 +4610,7 @@ DTEND;TZID=America/New_York:20250909T143000
 DESCRIPTION:During this time the team will close out their current sprint 
  and prepare for the next. To reduce the impact of meetings this will combi
  ne two ceremonies with a short break in between.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Sprint Ceremonies
@@ -4041,6 +4619,7 @@ DTEND;TZID=America/New_York:20250923T143000
 DESCRIPTION:During this time the team will close out their current sprint 
  and prepare for the next. To reduce the impact of meetings this will combi
  ne two ceremonies with a short break in between.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Sprint Ceremonies
@@ -4049,6 +4628,7 @@ DTEND;TZID=America/New_York:20251007T143000
 DESCRIPTION:During this time the team will close out their current sprint 
  and prepare for the next. To reduce the impact of meetings this will combi
  ne two ceremonies with a short break in between.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Sprint Ceremonies
@@ -4057,6 +4637,7 @@ DTEND;TZID=America/New_York:20251021T143000
 DESCRIPTION:During this time the team will close out their current sprint 
  and prepare for the next. To reduce the impact of meetings this will combi
  ne two ceremonies with a short break in between.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Sprint Ceremonies
@@ -4065,6 +4646,7 @@ DTEND;TZID=America/New_York:20251104T143000
 DESCRIPTION:During this time the team will close out their current sprint 
  and prepare for the next. To reduce the impact of meetings this will combi
  ne two ceremonies with a short break in between.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Sprint Ceremonies
@@ -4073,6 +4655,7 @@ DTEND;TZID=America/New_York:20251118T143000
 DESCRIPTION:During this time the team will close out their current sprint 
  and prepare for the next. To reduce the impact of meetings this will combi
  ne two ceremonies with a short break in between.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Sprint Ceremonies
@@ -4081,6 +4664,7 @@ DTEND;TZID=America/New_York:20251202T143000
 DESCRIPTION:During this time the team will close out their current sprint 
  and prepare for the next. To reduce the impact of meetings this will combi
  ne two ceremonies with a short break in between.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Sprint Ceremonies
@@ -4089,6 +4673,7 @@ DTEND;TZID=America/New_York:20251216T143000
 DESCRIPTION:During this time the team will close out their current sprint 
  and prepare for the next. To reduce the impact of meetings this will combi
  ne two ceremonies with a short break in between.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wordpress Sprint Ceremonies
@@ -4097,6 +4682,7 @@ DTEND;TZID=America/New_York:20251230T143000
 DESCRIPTION:During this time the team will close out their current sprint 
  and prepare for the next. To reduce the impact of meetings this will combi
  ne two ceremonies with a short break in between.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Sprint Ceremonies
@@ -4105,6 +4691,7 @@ DTEND;TZID=America/New_York:20250311T120000
 DESCRIPTION:During this time the team will close out their current sprint 
  and prepare for the next. To reduce the impact of meetings this will combi
  ne two ceremonies with a short break in between.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Sprint Ceremonies
@@ -4113,6 +4700,7 @@ DTEND;TZID=America/New_York:20250325T120000
 DESCRIPTION:During this time the team will close out their current sprint 
  and prepare for the next. To reduce the impact of meetings this will combi
  ne two ceremonies with a short break in between.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Sprint Ceremonies
@@ -4121,6 +4709,7 @@ DTEND;TZID=America/New_York:20250408T120000
 DESCRIPTION:During this time the team will close out their current sprint 
  and prepare for the next. To reduce the impact of meetings this will combi
  ne two ceremonies with a short break in between.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Sprint Ceremonies
@@ -4129,6 +4718,7 @@ DTEND;TZID=America/New_York:20250422T120000
 DESCRIPTION:During this time the team will close out their current sprint 
  and prepare for the next. To reduce the impact of meetings this will combi
  ne two ceremonies with a short break in between.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Sprint Ceremonies
@@ -4137,6 +4727,7 @@ DTEND;TZID=America/New_York:20250506T120000
 DESCRIPTION:During this time the team will close out their current sprint 
  and prepare for the next. To reduce the impact of meetings this will combi
  ne two ceremonies with a short break in between.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Sprint Ceremonies
@@ -4145,6 +4736,7 @@ DTEND;TZID=America/New_York:20250520T120000
 DESCRIPTION:During this time the team will close out their current sprint 
  and prepare for the next. To reduce the impact of meetings this will combi
  ne two ceremonies with a short break in between.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Sprint Ceremonies
@@ -4153,6 +4745,7 @@ DTEND;TZID=America/New_York:20250603T120000
 DESCRIPTION:During this time the team will close out their current sprint 
  and prepare for the next. To reduce the impact of meetings this will combi
  ne two ceremonies with a short break in between.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Sprint Ceremonies
@@ -4161,6 +4754,7 @@ DTEND;TZID=America/New_York:20250617T120000
 DESCRIPTION:During this time the team will close out their current sprint 
  and prepare for the next. To reduce the impact of meetings this will combi
  ne two ceremonies with a short break in between.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Sprint Ceremonies
@@ -4169,6 +4763,7 @@ DTEND;TZID=America/New_York:20250701T120000
 DESCRIPTION:During this time the team will close out their current sprint 
  and prepare for the next. To reduce the impact of meetings this will combi
  ne two ceremonies with a short break in between.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Sprint Ceremonies
@@ -4177,6 +4772,7 @@ DTEND;TZID=America/New_York:20250715T120000
 DESCRIPTION:During this time the team will close out their current sprint 
  and prepare for the next. To reduce the impact of meetings this will combi
  ne two ceremonies with a short break in between.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Sprint Ceremonies
@@ -4185,6 +4781,7 @@ DTEND;TZID=America/New_York:20250729T120000
 DESCRIPTION:During this time the team will close out their current sprint 
  and prepare for the next. To reduce the impact of meetings this will combi
  ne two ceremonies with a short break in between.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Sprint Ceremonies
@@ -4193,6 +4790,7 @@ DTEND;TZID=America/New_York:20250812T120000
 DESCRIPTION:During this time the team will close out their current sprint 
  and prepare for the next. To reduce the impact of meetings this will combi
  ne two ceremonies with a short break in between.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Sprint Ceremonies
@@ -4201,6 +4799,7 @@ DTEND;TZID=America/New_York:20250826T120000
 DESCRIPTION:During this time the team will close out their current sprint 
  and prepare for the next. To reduce the impact of meetings this will combi
  ne two ceremonies with a short break in between.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Sprint Ceremonies
@@ -4209,6 +4808,7 @@ DTEND;TZID=America/New_York:20250909T120000
 DESCRIPTION:During this time the team will close out their current sprint 
  and prepare for the next. To reduce the impact of meetings this will combi
  ne two ceremonies with a short break in between.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Sprint Ceremonies
@@ -4217,6 +4817,7 @@ DTEND;TZID=America/New_York:20250923T120000
 DESCRIPTION:During this time the team will close out their current sprint 
  and prepare for the next. To reduce the impact of meetings this will combi
  ne two ceremonies with a short break in between.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Sprint Ceremonies
@@ -4225,6 +4826,7 @@ DTEND;TZID=America/New_York:20251007T120000
 DESCRIPTION:During this time the team will close out their current sprint 
  and prepare for the next. To reduce the impact of meetings this will combi
  ne two ceremonies with a short break in between.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Sprint Ceremonies
@@ -4233,6 +4835,7 @@ DTEND;TZID=America/New_York:20251021T120000
 DESCRIPTION:During this time the team will close out their current sprint 
  and prepare for the next. To reduce the impact of meetings this will combi
  ne two ceremonies with a short break in between.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Sprint Ceremonies
@@ -4241,6 +4844,7 @@ DTEND;TZID=America/New_York:20251104T120000
 DESCRIPTION:During this time the team will close out their current sprint 
  and prepare for the next. To reduce the impact of meetings this will combi
  ne two ceremonies with a short break in between.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Sprint Ceremonies
@@ -4249,6 +4853,7 @@ DTEND;TZID=America/New_York:20251118T120000
 DESCRIPTION:During this time the team will close out their current sprint 
  and prepare for the next. To reduce the impact of meetings this will combi
  ne two ceremonies with a short break in between.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Sprint Ceremonies
@@ -4257,6 +4862,7 @@ DTEND;TZID=America/New_York:20251202T120000
 DESCRIPTION:During this time the team will close out their current sprint 
  and prepare for the next. To reduce the impact of meetings this will combi
  ne two ceremonies with a short break in between.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Sprint Ceremonies
@@ -4265,6 +4871,7 @@ DTEND;TZID=America/New_York:20251216T120000
 DESCRIPTION:During this time the team will close out their current sprint 
  and prepare for the next. To reduce the impact of meetings this will combi
  ne two ceremonies with a short break in between.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drupal Sprint Ceremonies
@@ -4273,6 +4880,7 @@ DTEND;TZID=America/New_York:20251230T120000
 DESCRIPTION:During this time the team will close out their current sprint 
  and prepare for the next. To reduce the impact of meetings this will combi
  ne two ceremonies with a short break in between.
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NLIT TDT
@@ -4281,30 +4889,35 @@ DTEND;TZID=America/New_York:20250310T113000
 DESCRIPTION:Get all the paperwork in. Seneca is out Friday\, so I put it o
  n Monday. Let me know if you prefer a better day/time or if we should stic
  k to Seneca and get it done Friday. 😊
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Innovation Crossroads Story Writing
 DTSTART;TZID=America/New_York:20250306T150000
 DTEND;TZID=America/New_York:20250306T163000
 DESCRIPTION:
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Refinement - WP
 DTSTART;TZID=America/New_York:20250310T100000
 DTEND;TZID=America/New_York:20250310T110000
 DESCRIPTION:
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Web Registration Project
 DTSTART;TZID=America/New_York:20250305T113000
 DTEND;TZID=America/New_York:20250305T123000
 DESCRIPTION:Discuss Web Registration Project
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Out of Office
-DTSTART;TZID=America/New_York:20250307T000000
-DTEND;TZID=America/New_York:20250308T000000
+DTSTART;VALUE=DATE:20250307
+DTEND;VALUE=DATE:20250309
 DESCRIPTION:nan
+LOCATION:nan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Website as a Product mapping
@@ -4313,12 +4926,14 @@ DTEND;TZID=America/New_York:20250312T123000
 DESCRIPTION:In working to develop a product solution to ORNL public websit
  e we will continue discussion to map out the essential features to help pr
  ioritize the necessary work. 
+LOCATION:RES: CR 5700 RM R101 - C (Oak Ridge\, TN\, US)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Web Reg Compare
 DTSTART;TZID=America/New_York:20250304T103000
 DTEND;TZID=America/New_York:20250304T110000
 DESCRIPTION:Get the good work started/ 
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Q2 ITSD All Hands Mtg
@@ -4326,6 +4941,7 @@ DTSTART;TZID=America/New_York:20250312T093000
 DTEND;TZID=America/New_York:20250312T110000
 DESCRIPTION:Please plan to attend in person if you are with in the 2 hr dr
  iving range.
+LOCATION:Microsoft Teams Meeting\; / 5200 TN Rooms
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CMS Sprint Review
@@ -4333,6 +4949,7 @@ DTSTART;TZID=America/New_York:20250311T093000
 DTEND;TZID=America/New_York:20250311T103000
 DESCRIPTION:Sprint Review schedule. I let these dates fall off the calenda
  r. 
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CMS Sprint Review
@@ -4340,6 +4957,7 @@ DTSTART;TZID=America/New_York:20250325T093000
 DTEND;TZID=America/New_York:20250325T103000
 DESCRIPTION:Sprint Review schedule. I let these dates fall off the calenda
  r. 
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CMS Sprint Review
@@ -4347,6 +4965,7 @@ DTSTART;TZID=America/New_York:20250408T093000
 DTEND;TZID=America/New_York:20250408T103000
 DESCRIPTION:Sprint Review schedule. I let these dates fall off the calenda
  r. 
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CMS Sprint Review
@@ -4354,6 +4973,7 @@ DTSTART;TZID=America/New_York:20250422T093000
 DTEND;TZID=America/New_York:20250422T103000
 DESCRIPTION:Sprint Review schedule. I let these dates fall off the calenda
  r. 
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CMS Sprint Review
@@ -4361,6 +4981,7 @@ DTSTART;TZID=America/New_York:20250506T093000
 DTEND;TZID=America/New_York:20250506T103000
 DESCRIPTION:Sprint Review schedule. I let these dates fall off the calenda
  r. 
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CMS Sprint Review
@@ -4368,6 +4989,7 @@ DTSTART;TZID=America/New_York:20250520T093000
 DTEND;TZID=America/New_York:20250520T103000
 DESCRIPTION:Sprint Review schedule. I let these dates fall off the calenda
  r. 
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CMS Sprint Review
@@ -4375,6 +4997,7 @@ DTSTART;TZID=America/New_York:20250603T093000
 DTEND;TZID=America/New_York:20250603T103000
 DESCRIPTION:Sprint Review schedule. I let these dates fall off the calenda
  r. 
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CMS Sprint Review
@@ -4382,6 +5005,7 @@ DTSTART;TZID=America/New_York:20250617T093000
 DTEND;TZID=America/New_York:20250617T103000
 DESCRIPTION:Sprint Review schedule. I let these dates fall off the calenda
  r. 
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CMS Sprint Review
@@ -4389,6 +5013,7 @@ DTSTART;TZID=America/New_York:20250701T093000
 DTEND;TZID=America/New_York:20250701T103000
 DESCRIPTION:Sprint Review schedule. I let these dates fall off the calenda
  r. 
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CMS Sprint Review
@@ -4396,6 +5021,7 @@ DTSTART;TZID=America/New_York:20250715T093000
 DTEND;TZID=America/New_York:20250715T103000
 DESCRIPTION:Sprint Review schedule. I let these dates fall off the calenda
  r. 
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CMS Sprint Review
@@ -4403,6 +5029,7 @@ DTSTART;TZID=America/New_York:20250729T093000
 DTEND;TZID=America/New_York:20250729T103000
 DESCRIPTION:Sprint Review schedule. I let these dates fall off the calenda
  r. 
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CMS Sprint Review
@@ -4410,6 +5037,7 @@ DTSTART;TZID=America/New_York:20250812T093000
 DTEND;TZID=America/New_York:20250812T103000
 DESCRIPTION:Sprint Review schedule. I let these dates fall off the calenda
  r. 
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CMS Sprint Review
@@ -4417,6 +5045,7 @@ DTSTART;TZID=America/New_York:20250826T093000
 DTEND;TZID=America/New_York:20250826T103000
 DESCRIPTION:Sprint Review schedule. I let these dates fall off the calenda
  r. 
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CMS Sprint Review
@@ -4424,6 +5053,7 @@ DTSTART;TZID=America/New_York:20250909T093000
 DTEND;TZID=America/New_York:20250909T103000
 DESCRIPTION:Sprint Review schedule. I let these dates fall off the calenda
  r. 
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CMS Sprint Review
@@ -4431,6 +5061,7 @@ DTSTART;TZID=America/New_York:20250923T093000
 DTEND;TZID=America/New_York:20250923T103000
 DESCRIPTION:Sprint Review schedule. I let these dates fall off the calenda
  r. 
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CMS Sprint Review
@@ -4438,6 +5069,7 @@ DTSTART;TZID=America/New_York:20251007T093000
 DTEND;TZID=America/New_York:20251007T103000
 DESCRIPTION:Sprint Review schedule. I let these dates fall off the calenda
  r. 
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CMS Sprint Review
@@ -4445,6 +5077,7 @@ DTSTART;TZID=America/New_York:20251021T093000
 DTEND;TZID=America/New_York:20251021T103000
 DESCRIPTION:Sprint Review schedule. I let these dates fall off the calenda
  r. 
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CMS Sprint Review
@@ -4452,6 +5085,7 @@ DTSTART;TZID=America/New_York:20251104T093000
 DTEND;TZID=America/New_York:20251104T103000
 DESCRIPTION:Sprint Review schedule. I let these dates fall off the calenda
  r. 
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CMS Sprint Review
@@ -4459,6 +5093,7 @@ DTSTART;TZID=America/New_York:20251118T093000
 DTEND;TZID=America/New_York:20251118T103000
 DESCRIPTION:Sprint Review schedule. I let these dates fall off the calenda
  r. 
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CMS Sprint Review
@@ -4466,6 +5101,7 @@ DTSTART;TZID=America/New_York:20251202T093000
 DTEND;TZID=America/New_York:20251202T103000
 DESCRIPTION:Sprint Review schedule. I let these dates fall off the calenda
  r. 
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CMS Sprint Review
@@ -4473,6 +5109,7 @@ DTSTART;TZID=America/New_York:20251216T093000
 DTEND;TZID=America/New_York:20251216T103000
 DESCRIPTION:Sprint Review schedule. I let these dates fall off the calenda
  r. 
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CMS Sprint Review
@@ -4480,59 +5117,69 @@ DTSTART;TZID=America/New_York:20251230T093000
 DTEND;TZID=America/New_York:20251230T103000
 DESCRIPTION:Sprint Review schedule. I let these dates fall off the calenda
  r. 
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CMS Discussion: TBD
 DTSTART;TZID=America/New_York:20250403T103000
 DTEND;TZID=America/New_York:20250403T113000
 DESCRIPTION:
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CMS Discussion: TBD
 DTSTART;TZID=America/New_York:20250403T103000
 DTEND;TZID=America/New_York:20250403T113000
 DESCRIPTION:
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CMS Discussion: TBD
 DTSTART;TZID=America/New_York:20250605T103000
 DTEND;TZID=America/New_York:20250605T113000
 DESCRIPTION:
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CMS Discussion: TBD
 DTSTART;TZID=America/New_York:20250703T103000
 DTEND;TZID=America/New_York:20250703T113000
 DESCRIPTION:
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CMS Discussion: TBD
 DTSTART;TZID=America/New_York:20250807T103000
 DTEND;TZID=America/New_York:20250807T113000
 DESCRIPTION:
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CMS Discussion: TBD
 DTSTART;TZID=America/New_York:20250904T103000
 DTEND;TZID=America/New_York:20250904T113000
 DESCRIPTION:
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CMS Discussion: TBD
 DTSTART;TZID=America/New_York:20251002T103000
 DTEND;TZID=America/New_York:20251002T113000
 DESCRIPTION:
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CMS Discussion: TBD
 DTSTART;TZID=America/New_York:20251106T103000
 DTEND;TZID=America/New_York:20251106T113000
 DESCRIPTION:
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CMS Discussion: TBD
 DTSTART;TZID=America/New_York:20251204T103000
 DTEND;TZID=America/New_York:20251204T113000
 DESCRIPTION:
+LOCATION:Microsoft Teams Meeting
 END:VEVENT
 END:VCALENDAR
